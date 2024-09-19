@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Kotlin & Jetpack Compose 學習筆記/Widgets(Compose)/Scaffold",
+  "id": "Kotlin & Jetpack Compose 學習筆記/Widgets(Compose)/Scaffold",
+  "isDocsHomePage": false,
+  "title": "Scaffold",
+  "description": "Scaffold 是一個提供基本應用結構的組件，它通常用於設計應用程序的主要佈局。Scaffold 支持插槽，比如 topBar、bottomBar、floatingActionButton、drawerContent 等等，這些插槽有助於快速構建標準化的應用界面",
+  "source": "@site/docs/Kotlin & Jetpack Compose 學習筆記/Widgets(Compose)/Scaffold.md",
+  "sourceDirName": "Kotlin & Jetpack Compose 學習筆記/Widgets(Compose)",
+  "slug": "/Kotlin & Jetpack Compose 學習筆記/Widgets(Compose)/Scaffold",
+  "permalink": "/my-note/docs/Kotlin & Jetpack Compose 學習筆記/Widgets(Compose)/Scaffold",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+    "permalink": "/my-note/docs/Kotlin & Jetpack Compose 學習筆記/JetpackComposeNote2"
+  },
+  "next": {
+    "title": "Hello",
+    "permalink": "/my-note/docs/test/test"
+  }
+}

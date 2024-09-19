@@ -1,0 +1,638 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/my-note/docs",
+          "tagsPath": "/my-note/docs/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/han/GitHub_Notes/my-note/sidebars.js",
+          "contentPath": "/Users/han/GitHub_Notes/my-note/docs",
+          "contentPathLocalized": "/Users/han/GitHub_Notes/my-note/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Kotlin & Jetpack Compose",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/Kotlin語法"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
+                    "label": "啥是 Jetpack Compose"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote2",
+                    "label": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
+                    "label": "Widgets(Compose)"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote4",
+                    "label": "() -> Unit 與 @Composable () -> Unit"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote5",
+                    "label": "狀態管理"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote6",
+                    "label": "Navigation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote7",
+                    "label": "Compose 實現 MVP 與 MVVM 架構"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "test",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "test/test"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/my-note/docs/intro",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Create a Page",
+                "permalink": "/my-note/docs/tutorial-basics/create-a-page"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "isDocsHomePage": false,
+              "title": "啥是 Jetpack Compose",
+              "description": "---",
+              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote1.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "啥是 Jetpack Compose",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kotlin 語法",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法"
+              },
+              "next": {
+                "title": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "isDocsHomePage": false,
+              "title": "UI ( Widget / Composable ) 設計與程式撰寫",
+              "description": "---",
+              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote2.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "啥是 Jetpack Compose",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
+              },
+              "next": {
+                "title": "Widgets(Compose)",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "isDocsHomePage": false,
+              "title": "Widgets(Compose)",
+              "description": "這邊介紹各個 Widget(Compose) 的參數代表什麼意思",
+              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote3.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Widgets(Compose)",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
+              },
+              "next": {
+                "title": "() -> Unit 與 @Composable () -> Unit",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "isDocsHomePage": false,
+              "title": "() -> Unit 與 @Composable () -> Unit",
+              "description": "---",
+              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote4.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "() -> Unit 與 @Composable () -> Unit",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Widgets(Compose)",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
+              },
+              "next": {
+                "title": "狀態管理",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "isDocsHomePage": false,
+              "title": "狀態管理",
+              "description": "---",
+              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote5.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "狀態管理",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "() -> Unit 與 @Composable () -> Unit",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4"
+              },
+              "next": {
+                "title": "Navigation",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "isDocsHomePage": false,
+              "title": "Navigation",
+              "description": "---",
+              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote6.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "Navigation",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "狀態管理",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5"
+              },
+              "next": {
+                "title": "Compose 實現 MVP 與 MVVM 架構",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "isDocsHomePage": false,
+              "title": "Compose 實現 MVP 與 MVVM 架構",
+              "description": "---",
+              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote7.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "Compose 實現 MVP 與 MVVM 架構",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Navigation",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
+              },
+              "next": {
+                "title": "Hello",
+                "permalink": "/my-note/docs/test/test"
+              }
+            },
+            {
+              "unversionedId": "Kotlin & Jetpack Compose/Kotlin語法",
+              "id": "Kotlin & Jetpack Compose/Kotlin語法",
+              "isDocsHomePage": false,
+              "title": "Kotlin 語法",
+              "description": "---",
+              "source": "@site/docs/Kotlin & Jetpack Compose/Kotlin語法.md",
+              "sourceDirName": "Kotlin & Jetpack Compose",
+              "slug": "/Kotlin & Jetpack Compose/Kotlin語法",
+              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/my-note/docs/tutorial-extras/translate-your-site"
+              },
+              "next": {
+                "title": "啥是 Jetpack Compose",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
+              }
+            },
+            {
+              "unversionedId": "test/test",
+              "id": "test/test",
+              "isDocsHomePage": false,
+              "title": "Hello",
+              "description": "",
+              "source": "@site/docs/test/test.md",
+              "sourceDirName": "test",
+              "slug": "/test/test",
+              "permalink": "/my-note/docs/test/test",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Compose 實現 MVP 與 MVVM 架構",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "isDocsHomePage": false,
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/my-note/docs/tutorial-basics/congratulations",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/my-note/docs/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Manage Docs Versions",
+                "permalink": "/my-note/docs/tutorial-extras/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/create-a-blog-post",
+              "isDocsHomePage": false,
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/my-note/docs/tutorial-basics/create-a-blog-post",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/my-note/docs/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/my-note/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-document",
+              "id": "tutorial-basics/create-a-document",
+              "isDocsHomePage": false,
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/my-note/docs/tutorial-basics/create-a-document",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/my-note/docs/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/my-note/docs/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-page",
+              "id": "tutorial-basics/create-a-page",
+              "isDocsHomePage": false,
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/my-note/docs/tutorial-basics/create-a-page",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial Intro",
+                "permalink": "/my-note/docs/intro"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/my-note/docs/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-your-site",
+              "id": "tutorial-basics/deploy-your-site",
+              "isDocsHomePage": false,
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/my-note/docs/tutorial-basics/deploy-your-site",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/my-note/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/my-note/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "isDocsHomePage": false,
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/my-note/docs/tutorial-basics/markdown-features",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/my-note/docs/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/my-note/docs/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "isDocsHomePage": false,
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/my-note/docs/tutorial-extras/manage-docs-versions",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/my-note/docs/tutorial-basics/congratulations"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/my-note/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "isDocsHomePage": false,
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/my-note/docs/tutorial-extras/translate-your-site",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/my-note/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Kotlin 語法",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/my-note/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/my-note/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/my-note/todo",
+        "source": "@site/src/pages/todo.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

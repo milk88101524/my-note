@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/i18n/zh-tw/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/my-note/zh-tw/docs/intro",
+  "editUrl": "https://milk88101524.github.io/my-note/edit/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/my-note/zh-tw/docs/tutorial-basics/create-a-page"
+  }
+}

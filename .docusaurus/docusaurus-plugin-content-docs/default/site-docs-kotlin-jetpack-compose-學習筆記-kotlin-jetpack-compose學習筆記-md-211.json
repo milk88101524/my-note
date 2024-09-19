@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Kotlin & Jetpack Compose 學習筆記/Kotlin&JetpackCompose學習筆記",
+  "id": "Kotlin & Jetpack Compose 學習筆記/Kotlin&JetpackCompose學習筆記",
+  "isDocsHomePage": false,
+  "title": "---",
+  "description": "---",
+  "source": "@site/docs/Kotlin & Jetpack Compose 學習筆記/Kotlin&JetpackCompose學習筆記.md",
+  "sourceDirName": "Kotlin & Jetpack Compose 學習筆記",
+  "slug": "/Kotlin & Jetpack Compose 學習筆記/Kotlin&JetpackCompose學習筆記",
+  "permalink": "/my-note/docs/Kotlin & Jetpack Compose 學習筆記/Kotlin&JetpackCompose學習筆記",
+  "editUrl": "https://milk88101524.github.io/my-note/edit/main/website/docs/Kotlin & Jetpack Compose 學習筆記/Kotlin&JetpackCompose學習筆記.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kotlin 語法",
+    "permalink": "/my-note/docs/Kotlin & Jetpack Compose 學習筆記/Kotlin語法"
+  },
+  "next": {
+    "title": "Hello",
+    "permalink": "/my-note/docs/test/test"
+  }
+}

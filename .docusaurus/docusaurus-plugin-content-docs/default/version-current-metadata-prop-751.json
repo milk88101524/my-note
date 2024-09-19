@@ -1,0 +1,135 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/my-note/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/my-note/docs/tutorial-basics/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/my-note/docs/tutorial-basics/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/my-note/docs/tutorial-basics/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/my-note/docs/tutorial-basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/my-note/docs/tutorial-basics/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/my-note/docs/tutorial-basics/congratulations"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/my-note/docs/tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/my-note/docs/tutorial-extras/translate-your-site"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Kotlin & Jetpack Compose",
+        "items": [
+          {
+            "type": "link",
+            "label": "Kotlin 語法",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法"
+          },
+          {
+            "type": "link",
+            "label": "啥是 Jetpack Compose",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
+          },
+          {
+            "type": "link",
+            "label": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
+          },
+          {
+            "type": "link",
+            "label": "Widgets(Compose)",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
+          },
+          {
+            "type": "link",
+            "label": "() -> Unit 與 @Composable () -> Unit",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4"
+          },
+          {
+            "type": "link",
+            "label": "狀態管理",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5"
+          },
+          {
+            "type": "link",
+            "label": "Navigation",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
+          },
+          {
+            "type": "link",
+            "label": "Compose 實現 MVP 與 MVVM 架構",
+            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "test",
+        "items": [
+          {
+            "type": "link",
+            "label": "Hello",
+            "href": "/my-note/docs/test/test"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  }
+}

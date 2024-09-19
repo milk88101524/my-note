@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Kotlin & Jetpack Compose 學習筆記/JetpackComposeNote3",
+  "id": "Kotlin & Jetpack Compose 學習筆記/JetpackComposeNote3",
+  "isDocsHomePage": false,
+  "title": "Widget ( Composable )",
+  "description": "在講 Widget ( Jetpack Compose 是稱 Composable ) 前要先講一下要注意的點：",
+  "source": "@site/docs/Kotlin & Jetpack Compose 學習筆記/JetpackComposeNote3.md",
+  "sourceDirName": "Kotlin & Jetpack Compose 學習筆記",
+  "slug": "/Kotlin & Jetpack Compose 學習筆記/JetpackComposeNote3",
+  "permalink": "/my-note/docs/Kotlin & Jetpack Compose 學習筆記/JetpackComposeNote3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "UI ( Widget / Composable ) 設計",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+    "permalink": "/my-note/docs/Kotlin & Jetpack Compose 學習筆記/JetpackComposeNote2"
+  },
+  "next": {
+    "title": "Scaffold",
+    "permalink": "/my-note/docs/Kotlin & Jetpack Compose 學習筆記/Widgets(Compose)/Scaffold"
+  }
+}

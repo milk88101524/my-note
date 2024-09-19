@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/my-note/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/my-note/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/my-note/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kotlin & Jetpack Compose/Kotlin語法",
+              "path": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test/test",
+              "path": "/my-note/docs/test/test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/my-note/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/my-note/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/my-note/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/my-note/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/my-note/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/my-note/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/my-note/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/my-note/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
