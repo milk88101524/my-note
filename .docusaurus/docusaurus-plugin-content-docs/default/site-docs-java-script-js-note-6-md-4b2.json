@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/JSNote6",
+  "id": "JavaScript/JSNote6",
+  "isDocsHomePage": false,
+  "title": "Number",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JSNote6.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JSNote6",
+  "permalink": "/my-note/docs/JavaScript/JSNote6",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Number",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "資料型態",
+    "permalink": "/my-note/docs/JavaScript/JSNote4"
+  },
+  "next": {
+    "title": "String",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote5"
+  }
+}

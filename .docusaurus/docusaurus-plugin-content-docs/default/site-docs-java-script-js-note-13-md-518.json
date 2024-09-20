@@ -1,0 +1,23 @@
+{
+  "unversionedId": "JavaScript/JSNote13",
+  "id": "JavaScript/JSNote13",
+  "isDocsHomePage": false,
+  "title": "export",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JSNote13.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JSNote13",
+  "permalink": "/my-note/docs/JavaScript/JSNote13",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "export",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "function / method",
+    "permalink": "/my-note/docs/JavaScript/JSNote12"
+  }
+}

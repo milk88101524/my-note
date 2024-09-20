@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_label": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+    "sidebar_label": "Jetpack Compose 工具介紹",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
@@ -21,7 +21,7 @@
     "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
   },
   "next": {
-    "title": "Widgets(Compose)",
+    "title": "Composable",
     "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
   }
 }

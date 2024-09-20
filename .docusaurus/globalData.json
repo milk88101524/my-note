@@ -16,6 +16,71 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "JavaScript/JSNote1",
+              "path": "/my-note/docs/JavaScript/JSNote1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote11",
+              "path": "/my-note/docs/JavaScript/JSNote11",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote12",
+              "path": "/my-note/docs/JavaScript/JSNote12",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote13",
+              "path": "/my-note/docs/JavaScript/JSNote13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote2",
+              "path": "/my-note/docs/JavaScript/JSNote2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote3",
+              "path": "/my-note/docs/JavaScript/JSNote3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote4",
+              "path": "/my-note/docs/JavaScript/JSNote4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/types/JSNote10",
+              "path": "/my-note/docs/JavaScript/types/JSNote10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/types/JSNote5",
+              "path": "/my-note/docs/JavaScript/types/JSNote5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/types/JSNote6",
+              "path": "/my-note/docs/JavaScript/types/JSNote6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/types/JSNote7",
+              "path": "/my-note/docs/JavaScript/types/JSNote7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/types/JSNote8",
+              "path": "/my-note/docs/JavaScript/types/JSNote8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/types/JSNote9",
+              "path": "/my-note/docs/JavaScript/types/JSNote9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
               "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1",
               "sidebar": "tutorialSidebar"
@@ -53,11 +118,6 @@
             {
               "id": "Kotlin & Jetpack Compose/Kotlin語法",
               "path": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "test/test",
-              "path": "/my-note/docs/test/test",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/JSNote1",
+  "id": "JavaScript/JSNote1",
+  "isDocsHomePage": false,
+  "title": "JavaScript 學習筆記",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JSNote1.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JSNote1",
+  "permalink": "/my-note/docs/JavaScript/JSNote1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "JavaScript Intro",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compose 實現 MVP 與 MVVM 架構",
+    "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+  },
+  "next": {
+    "title": "TypeScript跟 JS 的差異",
+    "permalink": "/my-note/docs/JavaScript/JSNote2"
+  }
+}

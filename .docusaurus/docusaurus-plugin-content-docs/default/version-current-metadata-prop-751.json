@@ -71,7 +71,7 @@
       },
       {
         "type": "category",
-        "label": "Kotlin & Jetpack Compose",
+        "label": "Tutorial - Kotlin & Compose",
         "items": [
           {
             "type": "link",
@@ -85,12 +85,12 @@
           },
           {
             "type": "link",
-            "label": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+            "label": "Jetpack Compose 工具介紹",
             "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
           },
           {
             "type": "link",
-            "label": "Widgets(Compose)",
+            "label": "Composable",
             "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
           },
           {
@@ -119,12 +119,80 @@
       },
       {
         "type": "category",
-        "label": "test",
+        "label": "Tutorial - Java Script",
         "items": [
           {
             "type": "link",
-            "label": "Hello",
-            "href": "/my-note/docs/test/test"
+            "label": "JavaScript Intro",
+            "href": "/my-note/docs/JavaScript/JSNote1"
+          },
+          {
+            "type": "link",
+            "label": "TypeScript跟 JS 的差異",
+            "href": "/my-note/docs/JavaScript/JSNote2"
+          },
+          {
+            "type": "link",
+            "label": "變數 (Variables)",
+            "href": "/my-note/docs/JavaScript/JSNote3"
+          },
+          {
+            "type": "link",
+            "label": "資料型態",
+            "href": "/my-note/docs/JavaScript/JSNote4"
+          },
+          {
+            "type": "category",
+            "label": "Type",
+            "items": [
+              {
+                "type": "link",
+                "label": "String",
+                "href": "/my-note/docs/JavaScript/types/JSNote5"
+              },
+              {
+                "type": "link",
+                "label": "Number",
+                "href": "/my-note/docs/JavaScript/types/JSNote6"
+              },
+              {
+                "type": "link",
+                "label": "Boolean",
+                "href": "/my-note/docs/JavaScript/types/JSNote7"
+              },
+              {
+                "type": "link",
+                "label": "Array",
+                "href": "/my-note/docs/JavaScript/types/JSNote8"
+              },
+              {
+                "type": "link",
+                "label": "Object",
+                "href": "/my-note/docs/JavaScript/types/JSNote9"
+              },
+              {
+                "type": "link",
+                "label": "typeof",
+                "href": "/my-note/docs/JavaScript/types/JSNote10"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "link",
+            "label": "條件",
+            "href": "/my-note/docs/JavaScript/JSNote11"
+          },
+          {
+            "type": "link",
+            "label": "function / method",
+            "href": "/my-note/docs/JavaScript/JSNote12"
+          },
+          {
+            "type": "link",
+            "label": "export",
+            "href": "/my-note/docs/JavaScript/JSNote13"
           }
         ],
         "collapsed": true,

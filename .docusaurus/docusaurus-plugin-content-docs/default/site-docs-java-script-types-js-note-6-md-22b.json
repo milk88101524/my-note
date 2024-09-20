@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/types/JSNote6",
+  "id": "JavaScript/types/JSNote6",
+  "isDocsHomePage": false,
+  "title": "Number",
+  "description": "---",
+  "source": "@site/docs/JavaScript/types/JSNote6.md",
+  "sourceDirName": "JavaScript/types",
+  "slug": "/JavaScript/types/JSNote6",
+  "permalink": "/my-note/docs/JavaScript/types/JSNote6",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Number",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote5"
+  },
+  "next": {
+    "title": "Boolean",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote7"
+  }
+}

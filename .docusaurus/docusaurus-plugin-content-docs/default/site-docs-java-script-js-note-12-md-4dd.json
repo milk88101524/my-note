@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/JSNote12",
+  "id": "JavaScript/JSNote12",
+  "isDocsHomePage": false,
+  "title": "function / method",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JSNote12.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JSNote12",
+  "permalink": "/my-note/docs/JavaScript/JSNote12",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "function / method",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "條件",
+    "permalink": "/my-note/docs/JavaScript/JSNote11"
+  },
+  "next": {
+    "title": "export",
+    "permalink": "/my-note/docs/JavaScript/JSNote13"
+  }
+}

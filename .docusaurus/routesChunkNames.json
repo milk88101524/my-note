@@ -41,13 +41,65 @@
     "component": "component---site-src-pages-todo-jsf-40-17f",
     "config": "config---my-note-5-e-9-c42"
   },
-  "/my-note/docs-6a1": {
+  "/my-note/docs-8cf": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---my-note-docs-935-7a9"
   },
   "/my-note/docs/intro-32a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---my-note-docs-intro-0-e-3-35a"
+  },
+  "/my-note/docs/JavaScript/JSNote1-5ef": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-js-note-12-ab-d6b"
+  },
+  "/my-note/docs/JavaScript/JSNote11-463": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-js-note-11-f-62-ef6"
+  },
+  "/my-note/docs/JavaScript/JSNote12-491": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-js-note-124-dd-24e"
+  },
+  "/my-note/docs/JavaScript/JSNote13-f49": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-js-note-13518-835"
+  },
+  "/my-note/docs/JavaScript/JSNote2-25a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-js-note-2-dbd-a6e"
+  },
+  "/my-note/docs/JavaScript/JSNote3-d5d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-js-note-39-c-2-a3b"
+  },
+  "/my-note/docs/JavaScript/JSNote4-58c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-js-note-4-e-20-6d2"
+  },
+  "/my-note/docs/JavaScript/types/JSNote10-6e9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-types-js-note-1077-a-592"
+  },
+  "/my-note/docs/JavaScript/types/JSNote5-130": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-types-js-note-5-cf-9-cc0"
+  },
+  "/my-note/docs/JavaScript/types/JSNote6-328": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-types-js-note-622-b-86e"
+  },
+  "/my-note/docs/JavaScript/types/JSNote7-80d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-types-js-note-718-c-fbf"
+  },
+  "/my-note/docs/JavaScript/types/JSNote8-2e5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-types-js-note-815-a-049"
+  },
+  "/my-note/docs/JavaScript/types/JSNote9-589": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-java-script-types-js-note-9162-e8c"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1-e85": {
     "component": "component---theme-doc-item-178-a40",
@@ -80,10 +132,6 @@
   "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法-578": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---my-note-docs-kotlin-jetpack-compose-kotlin語法-29-c-dd6"
-  },
-  "/my-note/docs/test/test-b7f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-test-testee-9-48f"
   },
   "/my-note/docs/tutorial-basics/congratulations-320": {
     "component": "component---theme-doc-item-178-a40",

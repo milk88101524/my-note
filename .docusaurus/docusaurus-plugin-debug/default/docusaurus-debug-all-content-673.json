@@ -72,7 +72,7 @@
               },
               {
                 "type": "category",
-                "label": "Kotlin & Jetpack Compose",
+                "label": "Tutorial - Kotlin & Compose",
                 "items": [
                   {
                     "type": "doc",
@@ -86,12 +86,12 @@
                   {
                     "type": "doc",
                     "id": "Kotlin & Jetpack Compose/JetpackComposeNote2",
-                    "label": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計"
+                    "label": "Jetpack Compose 工具介紹"
                   },
                   {
                     "type": "doc",
                     "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
-                    "label": "Widgets(Compose)"
+                    "label": "Composable"
                   },
                   {
                     "type": "doc",
@@ -119,11 +119,80 @@
               },
               {
                 "type": "category",
-                "label": "test",
+                "label": "Tutorial - Java Script",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "test/test"
+                    "id": "JavaScript/JSNote1",
+                    "label": "JavaScript Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/JSNote2",
+                    "label": "TypeScript跟 JS 的差異"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/JSNote3",
+                    "label": "變數 (Variables)"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/JSNote4",
+                    "label": "資料型態"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Type",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "JavaScript/types/JSNote5",
+                        "label": "String"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "JavaScript/types/JSNote6",
+                        "label": "Number"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "JavaScript/types/JSNote7",
+                        "label": "Boolean"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "JavaScript/types/JSNote8",
+                        "label": "Array"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "JavaScript/types/JSNote9",
+                        "label": "Object"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "JavaScript/types/JSNote10",
+                        "label": "typeof"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/JSNote11",
+                    "label": "條件"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/JSNote12",
+                    "label": "function / method"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/JSNote13",
+                    "label": "export"
                   }
                 ],
                 "collapsed": true,
@@ -155,6 +224,353 @@
               }
             },
             {
+              "unversionedId": "JavaScript/JSNote1",
+              "id": "JavaScript/JSNote1",
+              "isDocsHomePage": false,
+              "title": "JavaScript 學習筆記",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote1.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote1",
+              "permalink": "/my-note/docs/JavaScript/JSNote1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "JavaScript Intro",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Compose 實現 MVP 與 MVVM 架構",
+                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+              },
+              "next": {
+                "title": "TypeScript跟 JS 的差異",
+                "permalink": "/my-note/docs/JavaScript/JSNote2"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote11",
+              "id": "JavaScript/JSNote11",
+              "isDocsHomePage": false,
+              "title": "條件",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote11.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote11",
+              "permalink": "/my-note/docs/JavaScript/JSNote11",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "條件",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "typeof",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote10"
+              },
+              "next": {
+                "title": "function / method",
+                "permalink": "/my-note/docs/JavaScript/JSNote12"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote12",
+              "id": "JavaScript/JSNote12",
+              "isDocsHomePage": false,
+              "title": "function / method",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote12.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote12",
+              "permalink": "/my-note/docs/JavaScript/JSNote12",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "function / method",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "條件",
+                "permalink": "/my-note/docs/JavaScript/JSNote11"
+              },
+              "next": {
+                "title": "export",
+                "permalink": "/my-note/docs/JavaScript/JSNote13"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote13",
+              "id": "JavaScript/JSNote13",
+              "isDocsHomePage": false,
+              "title": "export",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote13.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote13",
+              "permalink": "/my-note/docs/JavaScript/JSNote13",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "export",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "function / method",
+                "permalink": "/my-note/docs/JavaScript/JSNote12"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote2",
+              "id": "JavaScript/JSNote2",
+              "isDocsHomePage": false,
+              "title": "TypeScript 跟 JavaScript 的差異",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote2.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote2",
+              "permalink": "/my-note/docs/JavaScript/JSNote2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "TypeScript跟 JS 的差異",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "JavaScript Intro",
+                "permalink": "/my-note/docs/JavaScript/JSNote1"
+              },
+              "next": {
+                "title": "變數 (Variables)",
+                "permalink": "/my-note/docs/JavaScript/JSNote3"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote3",
+              "id": "JavaScript/JSNote3",
+              "isDocsHomePage": false,
+              "title": "變數 (Variables)",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote3.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote3",
+              "permalink": "/my-note/docs/JavaScript/JSNote3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "變數 (Variables)",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TypeScript跟 JS 的差異",
+                "permalink": "/my-note/docs/JavaScript/JSNote2"
+              },
+              "next": {
+                "title": "資料型態",
+                "permalink": "/my-note/docs/JavaScript/JSNote4"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote4",
+              "id": "JavaScript/JSNote4",
+              "isDocsHomePage": false,
+              "title": "資料型態",
+              "description": "這邊介紹幾個常用的 JavaScript 資料型態",
+              "source": "@site/docs/JavaScript/JSNote4.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote4",
+              "permalink": "/my-note/docs/JavaScript/JSNote4",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "資料型態",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "變數 (Variables)",
+                "permalink": "/my-note/docs/JavaScript/JSNote3"
+              },
+              "next": {
+                "title": "String",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote5"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/types/JSNote10",
+              "id": "JavaScript/types/JSNote10",
+              "isDocsHomePage": false,
+              "title": "typeof",
+              "description": "---",
+              "source": "@site/docs/JavaScript/types/JSNote10.md",
+              "sourceDirName": "JavaScript/types",
+              "slug": "/JavaScript/types/JSNote10",
+              "permalink": "/my-note/docs/JavaScript/types/JSNote10",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "typeof",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Object",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote9"
+              },
+              "next": {
+                "title": "條件",
+                "permalink": "/my-note/docs/JavaScript/JSNote11"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/types/JSNote5",
+              "id": "JavaScript/types/JSNote5",
+              "isDocsHomePage": false,
+              "title": "String",
+              "description": "---",
+              "source": "@site/docs/JavaScript/types/JSNote5.md",
+              "sourceDirName": "JavaScript/types",
+              "slug": "/JavaScript/types/JSNote5",
+              "permalink": "/my-note/docs/JavaScript/types/JSNote5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "String",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "資料型態",
+                "permalink": "/my-note/docs/JavaScript/JSNote4"
+              },
+              "next": {
+                "title": "Number",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote6"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/types/JSNote6",
+              "id": "JavaScript/types/JSNote6",
+              "isDocsHomePage": false,
+              "title": "Number",
+              "description": "---",
+              "source": "@site/docs/JavaScript/types/JSNote6.md",
+              "sourceDirName": "JavaScript/types",
+              "slug": "/JavaScript/types/JSNote6",
+              "permalink": "/my-note/docs/JavaScript/types/JSNote6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Number",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "String",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote5"
+              },
+              "next": {
+                "title": "Boolean",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote7"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/types/JSNote7",
+              "id": "JavaScript/types/JSNote7",
+              "isDocsHomePage": false,
+              "title": "Boolean",
+              "description": "---",
+              "source": "@site/docs/JavaScript/types/JSNote7.md",
+              "sourceDirName": "JavaScript/types",
+              "slug": "/JavaScript/types/JSNote7",
+              "permalink": "/my-note/docs/JavaScript/types/JSNote7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Boolean",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Number",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote6"
+              },
+              "next": {
+                "title": "Array",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote8"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/types/JSNote8",
+              "id": "JavaScript/types/JSNote8",
+              "isDocsHomePage": false,
+              "title": "Array",
+              "description": "---",
+              "source": "@site/docs/JavaScript/types/JSNote8.md",
+              "sourceDirName": "JavaScript/types",
+              "slug": "/JavaScript/types/JSNote8",
+              "permalink": "/my-note/docs/JavaScript/types/JSNote8",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Array",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Boolean",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote7"
+              },
+              "next": {
+                "title": "Object",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote9"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/types/JSNote9",
+              "id": "JavaScript/types/JSNote9",
+              "isDocsHomePage": false,
+              "title": "Object",
+              "description": "---",
+              "source": "@site/docs/JavaScript/types/JSNote9.md",
+              "sourceDirName": "JavaScript/types",
+              "slug": "/JavaScript/types/JSNote9",
+              "permalink": "/my-note/docs/JavaScript/types/JSNote9",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Object",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Array",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote8"
+              },
+              "next": {
+                "title": "typeof",
+                "permalink": "/my-note/docs/JavaScript/types/JSNote10"
+              }
+            },
+            {
               "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote1",
               "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
               "isDocsHomePage": false,
@@ -177,7 +593,7 @@
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法"
               },
               "next": {
-                "title": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+                "title": "Jetpack Compose 工具介紹",
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
               }
             },
@@ -195,7 +611,7 @@
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_label": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+                "sidebar_label": "Jetpack Compose 工具介紹",
                 "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
@@ -204,7 +620,7 @@
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
               },
               "next": {
-                "title": "Widgets(Compose)",
+                "title": "Composable",
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
               }
             },
@@ -213,7 +629,7 @@
               "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
               "isDocsHomePage": false,
               "title": "Widgets(Compose)",
-              "description": "這邊介紹各個 Widget(Compose) 的參數代表什麼意思",
+              "description": "Widget ( Composable )",
               "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote3.md",
               "sourceDirName": "Kotlin & Jetpack Compose",
               "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote3",
@@ -222,12 +638,12 @@
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_label": "Widgets(Compose)",
+                "sidebar_label": "Composable",
                 "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+                "title": "Jetpack Compose 工具介紹",
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
               },
               "next": {
@@ -254,7 +670,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Widgets(Compose)",
+                "title": "Composable",
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
               },
               "next": {
@@ -339,8 +755,8 @@
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
               },
               "next": {
-                "title": "Hello",
-                "permalink": "/my-note/docs/test/test"
+                "title": "JavaScript Intro",
+                "permalink": "/my-note/docs/JavaScript/JSNote1"
               }
             },
             {
@@ -367,25 +783,6 @@
               "next": {
                 "title": "啥是 Jetpack Compose",
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
-              }
-            },
-            {
-              "unversionedId": "test/test",
-              "id": "test/test",
-              "isDocsHomePage": false,
-              "title": "Hello",
-              "description": "",
-              "source": "@site/docs/test/test.md",
-              "sourceDirName": "test",
-              "slug": "/test/test",
-              "permalink": "/my-note/docs/test/test",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Compose 實現 MVP 與 MVVM 架構",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
               }
             },
             {

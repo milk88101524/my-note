@@ -1,0 +1,19 @@
+{
+  "unversionedId": "JavaScript/JavaScriptNote",
+  "id": "JavaScript/JavaScriptNote",
+  "isDocsHomePage": false,
+  "title": "JavaScript 學習筆記",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JavaScriptNote.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JavaScriptNote",
+  "permalink": "/my-note/docs/JavaScript/JavaScriptNote",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compose 實現 MVP 與 MVVM 架構",
+    "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+  }
+}

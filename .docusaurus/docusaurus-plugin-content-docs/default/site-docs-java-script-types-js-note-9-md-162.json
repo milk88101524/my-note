@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/types/JSNote9",
+  "id": "JavaScript/types/JSNote9",
+  "isDocsHomePage": false,
+  "title": "Object",
+  "description": "---",
+  "source": "@site/docs/JavaScript/types/JSNote9.md",
+  "sourceDirName": "JavaScript/types",
+  "slug": "/JavaScript/types/JSNote9",
+  "permalink": "/my-note/docs/JavaScript/types/JSNote9",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Object",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Array",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote8"
+  },
+  "next": {
+    "title": "typeof",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote10"
+  }
+}

@@ -65,11 +65,89 @@ export default [
   },
   {
     path: '/my-note/docs',
-    component: ComponentCreator('/my-note/docs','6a1'),
+    component: ComponentCreator('/my-note/docs','8cf'),
     routes: [
       {
         path: '/my-note/docs/intro',
         component: ComponentCreator('/my-note/docs/intro','32a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote1',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote1','5ef'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote11',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote11','463'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote12',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote12','491'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote13',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote13','f49'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote2',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote2','25a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote3',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote3','d5d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote4',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote4','58c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/types/JSNote10',
+        component: ComponentCreator('/my-note/docs/JavaScript/types/JSNote10','6e9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/types/JSNote5',
+        component: ComponentCreator('/my-note/docs/JavaScript/types/JSNote5','130'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/types/JSNote6',
+        component: ComponentCreator('/my-note/docs/JavaScript/types/JSNote6','328'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/types/JSNote7',
+        component: ComponentCreator('/my-note/docs/JavaScript/types/JSNote7','80d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/types/JSNote8',
+        component: ComponentCreator('/my-note/docs/JavaScript/types/JSNote8','2e5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/types/JSNote9',
+        component: ComponentCreator('/my-note/docs/JavaScript/types/JSNote9','589'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -118,12 +196,6 @@ export default [
       {
         path: '/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法',
         component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法','578'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/my-note/docs/test/test',
-        component: ComponentCreator('/my-note/docs/test/test','b7f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

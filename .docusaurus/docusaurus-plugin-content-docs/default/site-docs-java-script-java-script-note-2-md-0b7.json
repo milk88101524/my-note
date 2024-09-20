@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/JavaScriptNote2",
+  "id": "JavaScript/JavaScriptNote2",
+  "isDocsHomePage": false,
+  "title": "TypeScript 跟 JavaScript 的差異",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JavaScriptNote2.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JavaScriptNote2",
+  "permalink": "/my-note/docs/JavaScript/JavaScriptNote2",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "TypeScript跟 JS 的差異",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JavaScript Intro",
+    "permalink": "/my-note/docs/JavaScript/JSNote1"
+  },
+  "next": {
+    "title": "變數 (Variables)",
+    "permalink": "/my-note/docs/JavaScript/JSNote3"
+  }
+}

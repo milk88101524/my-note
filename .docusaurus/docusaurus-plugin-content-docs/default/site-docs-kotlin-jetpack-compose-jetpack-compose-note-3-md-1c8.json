@@ -3,7 +3,7 @@
   "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
   "isDocsHomePage": false,
   "title": "Widgets(Compose)",
-  "description": "這邊介紹各個 Widget(Compose) 的參數代表什麼意思",
+  "description": "Widget ( Composable )",
   "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote3.md",
   "sourceDirName": "Kotlin & Jetpack Compose",
   "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote3",
@@ -12,12 +12,12 @@
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_label": "Widgets(Compose)",
+    "sidebar_label": "Composable",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計",
+    "title": "Jetpack Compose 工具介紹",
     "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
   },
   "next": {

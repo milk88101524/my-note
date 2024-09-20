@@ -1,0 +1,23 @@
+{
+  "unversionedId": "JavaScript/JSNote8",
+  "id": "JavaScript/JSNote8",
+  "isDocsHomePage": false,
+  "title": "JSNote8",
+  "description": "",
+  "source": "@site/docs/JavaScript/JSNote8.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JSNote8",
+  "permalink": "/my-note/docs/JavaScript/JSNote8",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "資料型態",
+    "permalink": "/my-note/docs/JavaScript/JSNote4"
+  },
+  "next": {
+    "title": "String",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote5"
+  }
+}

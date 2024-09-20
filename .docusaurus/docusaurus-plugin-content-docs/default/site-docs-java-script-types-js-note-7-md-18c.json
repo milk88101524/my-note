@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/types/JSNote7",
+  "id": "JavaScript/types/JSNote7",
+  "isDocsHomePage": false,
+  "title": "Boolean",
+  "description": "---",
+  "source": "@site/docs/JavaScript/types/JSNote7.md",
+  "sourceDirName": "JavaScript/types",
+  "slug": "/JavaScript/types/JSNote7",
+  "permalink": "/my-note/docs/JavaScript/types/JSNote7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Boolean",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Number",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote6"
+  },
+  "next": {
+    "title": "Array",
+    "permalink": "/my-note/docs/JavaScript/types/JSNote8"
+  }
+}

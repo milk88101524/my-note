@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Jetpack Compose 工具介紹與UI ( Widget / Composable ) 設計"
+sidebar_label: "Jetpack Compose 工具介紹"
 sidebar_position: 3
 ---
 
@@ -28,28 +28,3 @@ sidebar_position: 3
 
 * Composable
 	要建立一個 compose UI，必須先寫一個 composable function, 只要在 function 上面加一個 @Composable annotation 就可以了
-
-## Widget ( Composable )
-
-在講 Widget ( Jetpack Compose 是稱 Composable ) 前要先講一下要注意的點：
-
-在Flutter 中是用 ( ) 來放屬性與 child 或 children ，例如：
-
-```
-Container(
-  color: Colors.blue,
-  child: Text('Hello'),
-)
-```
-
-但在 Jetpack Compose 中是使用 ( ) 來放屬性，使用 { } 來放子 Widget
-
-```
-Column(
-  modifier = Modifier.fillMaxSize(),
-) {
-  Text("Hello")
-}
-```
-
-雖說這兩者都是由 Google 開發和維護，但這部分是必須要注意的

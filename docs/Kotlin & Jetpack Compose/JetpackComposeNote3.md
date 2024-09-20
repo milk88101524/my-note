@@ -1,9 +1,34 @@
 ---
-sidebar_label: "Widgets(Compose)"
+sidebar_label: "Composable"
 sidebar_position: 4
 ---
 
 # Widgets(Compose)
+
+## Widget ( Composable )
+
+在講 Widget ( Jetpack Compose 是稱 Composable ) 前要先講一下要注意的點：
+
+在Flutter 中是用 ( ) 來放屬性與 child 或 children ，例如：
+
+```
+Container(
+  color: Colors.blue,
+  child: Text('Hello'),
+)
+```
+
+但在 Jetpack Compose 中是使用 ( ) 來放屬性，使用 { } 來放子 Widget
+
+```
+Column(
+  modifier = Modifier.fillMaxSize(),
+) {
+  Text("Hello")
+}
+```
+
+雖說這兩者都是由 Google 開發和維護，但這部分是必須要注意的
 
 這邊介紹各個 Widget(Compose) 的參數代表什麼意思
 

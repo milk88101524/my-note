@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/JavaScriptNote4",
+  "id": "JavaScript/JavaScriptNote4",
+  "isDocsHomePage": false,
+  "title": "資料型態",
+  "description": "這邊介紹幾個常用的 JavaScript 資料型態",
+  "source": "@site/docs/JavaScript/JavaScriptNote4.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JavaScriptNote4",
+  "permalink": "/my-note/docs/JavaScript/JavaScriptNote4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "資料型態",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "變數 (Variables)",
+    "permalink": "/my-note/docs/JavaScript/JavaScriptNote3"
+  },
+  "next": {
+    "title": "JSNote5",
+    "permalink": "/my-note/docs/JavaScript/JSNote5"
+  }
+}

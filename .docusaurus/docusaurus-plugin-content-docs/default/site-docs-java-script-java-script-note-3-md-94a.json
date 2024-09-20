@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/JavaScriptNote3",
+  "id": "JavaScript/JavaScriptNote3",
+  "isDocsHomePage": false,
+  "title": "變數 (Variables)",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JavaScriptNote3.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JavaScriptNote3",
+  "permalink": "/my-note/docs/JavaScript/JavaScriptNote3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "變數 (Variables)",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TypeScript跟 JS 的差異",
+    "permalink": "/my-note/docs/JavaScript/JavaScriptNote2"
+  },
+  "next": {
+    "title": "資料型態",
+    "permalink": "/my-note/docs/JavaScript/JSNote4"
+  }
+}
