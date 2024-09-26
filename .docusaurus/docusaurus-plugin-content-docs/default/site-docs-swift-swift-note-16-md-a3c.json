@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Swift/swiftNote16",
+  "id": "Swift/swiftNote16",
+  "isDocsHomePage": false,
+  "title": "property observer",
+  "description": "屬性觀察器（property observers）允許在屬性的值被設置之前和之後執行一些自定義的代碼。屬性觀察器可以添加到存儲屬性中，或在子類中重寫繼承的屬性。它們有助於監視和響應屬性值的變化",
+  "source": "@site/docs/Swift/swiftNote16.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote16",
+  "permalink": "/my-note/docs/Swift/swiftNote16",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_label": "property observer",
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "computed property",
+    "permalink": "/my-note/docs/Swift/swiftNote15"
+  }
+}

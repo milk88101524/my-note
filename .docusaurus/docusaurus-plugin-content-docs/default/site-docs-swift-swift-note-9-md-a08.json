@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote9",
+  "id": "Swift/swiftNote9",
+  "isDocsHomePage": false,
+  "title": "Function / Method",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote9.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote9",
+  "permalink": "/my-note/docs/Swift/swiftNote9",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Function / Method",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Switch",
+    "permalink": "/my-note/docs/Swift/swiftNote8"
+  },
+  "next": {
+    "title": "class",
+    "permalink": "/my-note/docs/Swift/swiftNote10"
+  }
+}

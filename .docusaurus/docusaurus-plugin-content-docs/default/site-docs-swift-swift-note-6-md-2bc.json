@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote6",
+  "id": "Swift/swiftNote6",
+  "isDocsHomePage": false,
+  "title": "if else",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote6.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote6",
+  "permalink": "/my-note/docs/Swift/swiftNote6",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "if else",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Optional",
+    "permalink": "/my-note/docs/Swift/swiftNote5"
+  },
+  "next": {
+    "title": "三元運算符",
+    "permalink": "/my-note/docs/Swift/swiftNote7"
+  }
+}

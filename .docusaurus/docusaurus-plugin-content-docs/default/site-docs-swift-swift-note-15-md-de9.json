@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote15",
+  "id": "Swift/swiftNote15",
+  "isDocsHomePage": false,
+  "title": "computed property",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote15.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote15",
+  "permalink": "/my-note/docs/Swift/swiftNote15",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_label": "computed property",
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "enum",
+    "permalink": "/my-note/docs/Swift/swiftNote14"
+  },
+  "next": {
+    "title": "property observer",
+    "permalink": "/my-note/docs/Swift/swiftNote16"
+  }
+}

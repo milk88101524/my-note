@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote5",
+  "id": "Swift/swiftNote5",
+  "isDocsHomePage": false,
+  "title": "Optional",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote5.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote5",
+  "permalink": "/my-note/docs/Swift/swiftNote5",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Optional",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Typealias",
+    "permalink": "/my-note/docs/Swift/swiftNote4"
+  },
+  "next": {
+    "title": "if else",
+    "permalink": "/my-note/docs/Swift/swiftNote6"
+  }
+}

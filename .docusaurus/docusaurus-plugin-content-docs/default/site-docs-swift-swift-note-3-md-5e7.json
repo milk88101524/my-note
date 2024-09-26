@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote3",
+  "id": "Swift/swiftNote3",
+  "isDocsHomePage": false,
+  "title": "資料型態",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote3.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote3",
+  "permalink": "/my-note/docs/Swift/swiftNote3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "資料型態",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "變數宣告",
+    "permalink": "/my-note/docs/Swift/swiftNote2"
+  },
+  "next": {
+    "title": "Typealias",
+    "permalink": "/my-note/docs/Swift/swiftNote4"
+  }
+}

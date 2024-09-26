@@ -41,7 +41,7 @@
     "component": "component---site-src-pages-todo-jsf-40-17f",
     "config": "config---my-note-5-e-9-c42"
   },
-  "/my-note/docs-8cf": {
+  "/my-note/docs-7fb": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---my-note-docs-935-7a9"
   },
@@ -132,6 +132,70 @@
   "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法-578": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---my-note-docs-kotlin-jetpack-compose-kotlin語法-29-c-dd6"
+  },
+  "/my-note/docs/Swift/swiftNote1-7dc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-1572-7b4"
+  },
+  "/my-note/docs/Swift/swiftNote10-d04": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-103-fa-907"
+  },
+  "/my-note/docs/Swift/swiftNote11-171": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-11-d-7-a-e96"
+  },
+  "/my-note/docs/Swift/swiftNote12-cec": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-12814-503"
+  },
+  "/my-note/docs/Swift/swiftNote13-244": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-13-e-25-f48"
+  },
+  "/my-note/docs/Swift/swiftNote14-76c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-148-f-9-60e"
+  },
+  "/my-note/docs/Swift/swiftNote15-96c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-15-de-9-314"
+  },
+  "/my-note/docs/Swift/swiftNote16-787": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-16-a-3-c-0e1"
+  },
+  "/my-note/docs/Swift/swiftNote2-d4e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-20-c-8-446"
+  },
+  "/my-note/docs/Swift/swiftNote3-bec": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-35-e-7-f0c"
+  },
+  "/my-note/docs/Swift/swiftNote4-fcc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-4-e-27-c2d"
+  },
+  "/my-note/docs/Swift/swiftNote5-820": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-5-fdb-f93"
+  },
+  "/my-note/docs/Swift/swiftNote6-237": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-62-bc-298"
+  },
+  "/my-note/docs/Swift/swiftNote7-555": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-730-d-95f"
+  },
+  "/my-note/docs/Swift/swiftNote8-06a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-86-c-4-be4"
+  },
+  "/my-note/docs/Swift/swiftNote9-5c7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-note-docs-swift-swift-note-9-a-08-f98"
   },
   "/my-note/docs/tutorial-basics/congratulations-320": {
     "component": "component---theme-doc-item-178-a40",

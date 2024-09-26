@@ -197,6 +197,94 @@
                 ],
                 "collapsed": true,
                 "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Swift",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote1",
+                    "label": "Swift Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote2",
+                    "label": "變數宣告"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote3",
+                    "label": "資料型態"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote4",
+                    "label": "Typealias"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote5",
+                    "label": "Optional"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote6",
+                    "label": "if else"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote7",
+                    "label": "三元運算符"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote8",
+                    "label": "Switch"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote9",
+                    "label": "Function / Method"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote10",
+                    "label": "class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote11",
+                    "label": "struct"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote12",
+                    "label": "shuffle & shuffled"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote13",
+                    "label": "Loop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote14",
+                    "label": "enum"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote15",
+                    "label": "computed property"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote16",
+                    "label": "property observer"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
               }
             ]
           },
@@ -325,6 +413,10 @@
               "previous": {
                 "title": "function / method",
                 "permalink": "/my-note/docs/JavaScript/JSNote12"
+              },
+              "next": {
+                "title": "Swift Intro",
+                "permalink": "/my-note/docs/Swift/swiftNote1"
               }
             },
             {
@@ -783,6 +875,434 @@
               "next": {
                 "title": "啥是 Jetpack Compose",
                 "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote1",
+              "id": "Swift/swiftNote1",
+              "isDocsHomePage": false,
+              "title": "Swift 學習筆記",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote1.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote1",
+              "permalink": "/my-note/docs/Swift/swiftNote1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Swift Intro",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "export",
+                "permalink": "/my-note/docs/JavaScript/JSNote13"
+              },
+              "next": {
+                "title": "變數宣告",
+                "permalink": "/my-note/docs/Swift/swiftNote2"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote10",
+              "id": "Swift/swiftNote10",
+              "isDocsHomePage": false,
+              "title": "class",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote10.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote10",
+              "permalink": "/my-note/docs/Swift/swiftNote10",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_label": "class",
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Function / Method",
+                "permalink": "/my-note/docs/Swift/swiftNote9"
+              },
+              "next": {
+                "title": "struct",
+                "permalink": "/my-note/docs/Swift/swiftNote11"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote11",
+              "id": "Swift/swiftNote11",
+              "isDocsHomePage": false,
+              "title": "struct",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote11.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote11",
+              "permalink": "/my-note/docs/Swift/swiftNote11",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_label": "struct",
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "class",
+                "permalink": "/my-note/docs/Swift/swiftNote10"
+              },
+              "next": {
+                "title": "shuffle & shuffled",
+                "permalink": "/my-note/docs/Swift/swiftNote12"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote12",
+              "id": "Swift/swiftNote12",
+              "isDocsHomePage": false,
+              "title": "shuffle & shuffled",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote12.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote12",
+              "permalink": "/my-note/docs/Swift/swiftNote12",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_label": "shuffle & shuffled",
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "struct",
+                "permalink": "/my-note/docs/Swift/swiftNote11"
+              },
+              "next": {
+                "title": "Loop",
+                "permalink": "/my-note/docs/Swift/swiftNote13"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote13",
+              "id": "Swift/swiftNote13",
+              "isDocsHomePage": false,
+              "title": "Loop",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote13.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote13",
+              "permalink": "/my-note/docs/Swift/swiftNote13",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_label": "Loop",
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "shuffle & shuffled",
+                "permalink": "/my-note/docs/Swift/swiftNote12"
+              },
+              "next": {
+                "title": "enum",
+                "permalink": "/my-note/docs/Swift/swiftNote14"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote14",
+              "id": "Swift/swiftNote14",
+              "isDocsHomePage": false,
+              "title": "enum",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote14.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote14",
+              "permalink": "/my-note/docs/Swift/swiftNote14",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_label": "enum",
+                "sidebar_position": 14
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Loop",
+                "permalink": "/my-note/docs/Swift/swiftNote13"
+              },
+              "next": {
+                "title": "computed property",
+                "permalink": "/my-note/docs/Swift/swiftNote15"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote15",
+              "id": "Swift/swiftNote15",
+              "isDocsHomePage": false,
+              "title": "computed property",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote15.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote15",
+              "permalink": "/my-note/docs/Swift/swiftNote15",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 15,
+              "frontMatter": {
+                "sidebar_label": "computed property",
+                "sidebar_position": 15
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "enum",
+                "permalink": "/my-note/docs/Swift/swiftNote14"
+              },
+              "next": {
+                "title": "property observer",
+                "permalink": "/my-note/docs/Swift/swiftNote16"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote16",
+              "id": "Swift/swiftNote16",
+              "isDocsHomePage": false,
+              "title": "property observer",
+              "description": "屬性觀察器（property observers）允許在屬性的值被設置之前和之後執行一些自定義的代碼。屬性觀察器可以添加到存儲屬性中，或在子類中重寫繼承的屬性。它們有助於監視和響應屬性值的變化",
+              "source": "@site/docs/Swift/swiftNote16.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote16",
+              "permalink": "/my-note/docs/Swift/swiftNote16",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_label": "property observer",
+                "sidebar_position": 16
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "computed property",
+                "permalink": "/my-note/docs/Swift/swiftNote15"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote2",
+              "id": "Swift/swiftNote2",
+              "isDocsHomePage": false,
+              "title": "變數宣告",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote2.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote2",
+              "permalink": "/my-note/docs/Swift/swiftNote2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "變數宣告",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Swift Intro",
+                "permalink": "/my-note/docs/Swift/swiftNote1"
+              },
+              "next": {
+                "title": "資料型態",
+                "permalink": "/my-note/docs/Swift/swiftNote3"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote3",
+              "id": "Swift/swiftNote3",
+              "isDocsHomePage": false,
+              "title": "資料型態",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote3.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote3",
+              "permalink": "/my-note/docs/Swift/swiftNote3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "資料型態",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "變數宣告",
+                "permalink": "/my-note/docs/Swift/swiftNote2"
+              },
+              "next": {
+                "title": "Typealias",
+                "permalink": "/my-note/docs/Swift/swiftNote4"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote4",
+              "id": "Swift/swiftNote4",
+              "isDocsHomePage": false,
+              "title": "Typealias",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote4.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote4",
+              "permalink": "/my-note/docs/Swift/swiftNote4",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Typealias",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "資料型態",
+                "permalink": "/my-note/docs/Swift/swiftNote3"
+              },
+              "next": {
+                "title": "Optional",
+                "permalink": "/my-note/docs/Swift/swiftNote5"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote5",
+              "id": "Swift/swiftNote5",
+              "isDocsHomePage": false,
+              "title": "Optional",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote5.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote5",
+              "permalink": "/my-note/docs/Swift/swiftNote5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Optional",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Typealias",
+                "permalink": "/my-note/docs/Swift/swiftNote4"
+              },
+              "next": {
+                "title": "if else",
+                "permalink": "/my-note/docs/Swift/swiftNote6"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote6",
+              "id": "Swift/swiftNote6",
+              "isDocsHomePage": false,
+              "title": "if else",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote6.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote6",
+              "permalink": "/my-note/docs/Swift/swiftNote6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "if else",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Optional",
+                "permalink": "/my-note/docs/Swift/swiftNote5"
+              },
+              "next": {
+                "title": "三元運算符",
+                "permalink": "/my-note/docs/Swift/swiftNote7"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote7",
+              "id": "Swift/swiftNote7",
+              "isDocsHomePage": false,
+              "title": "三元運算符",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote7.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote7",
+              "permalink": "/my-note/docs/Swift/swiftNote7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "三元運算符",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "if else",
+                "permalink": "/my-note/docs/Swift/swiftNote6"
+              },
+              "next": {
+                "title": "Switch",
+                "permalink": "/my-note/docs/Swift/swiftNote8"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote8",
+              "id": "Swift/swiftNote8",
+              "isDocsHomePage": false,
+              "title": "Switch",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote8.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote8",
+              "permalink": "/my-note/docs/Swift/swiftNote8",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "Switch",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "三元運算符",
+                "permalink": "/my-note/docs/Swift/swiftNote7"
+              },
+              "next": {
+                "title": "Function / Method",
+                "permalink": "/my-note/docs/Swift/swiftNote9"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote9",
+              "id": "Swift/swiftNote9",
+              "isDocsHomePage": false,
+              "title": "Function / Method",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote9.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote9",
+              "permalink": "/my-note/docs/Swift/swiftNote9",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_label": "Function / Method",
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Switch",
+                "permalink": "/my-note/docs/Swift/swiftNote8"
+              },
+              "next": {
+                "title": "class",
+                "permalink": "/my-note/docs/Swift/swiftNote10"
               }
             },
             {

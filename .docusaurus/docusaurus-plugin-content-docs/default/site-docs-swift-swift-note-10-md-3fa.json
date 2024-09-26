@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote10",
+  "id": "Swift/swiftNote10",
+  "isDocsHomePage": false,
+  "title": "class",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote10.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote10",
+  "permalink": "/my-note/docs/Swift/swiftNote10",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "class",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Function / Method",
+    "permalink": "/my-note/docs/Swift/swiftNote9"
+  },
+  "next": {
+    "title": "struct",
+    "permalink": "/my-note/docs/Swift/swiftNote11"
+  }
+}

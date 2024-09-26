@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote13",
+  "id": "Swift/swiftNote13",
+  "isDocsHomePage": false,
+  "title": "Loop",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote13.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote13",
+  "permalink": "/my-note/docs/Swift/swiftNote13",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_label": "Loop",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "shuffle & shuffled",
+    "permalink": "/my-note/docs/Swift/swiftNote12"
+  },
+  "next": {
+    "title": "enum",
+    "permalink": "/my-note/docs/Swift/swiftNote14"
+  }
+}

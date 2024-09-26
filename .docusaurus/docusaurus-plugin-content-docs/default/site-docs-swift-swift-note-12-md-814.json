@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote12",
+  "id": "Swift/swiftNote12",
+  "isDocsHomePage": false,
+  "title": "shuffle & shuffled",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote12.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote12",
+  "permalink": "/my-note/docs/Swift/swiftNote12",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_label": "shuffle & shuffled",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "struct",
+    "permalink": "/my-note/docs/Swift/swiftNote11"
+  },
+  "next": {
+    "title": "Loop",
+    "permalink": "/my-note/docs/Swift/swiftNote13"
+  }
+}

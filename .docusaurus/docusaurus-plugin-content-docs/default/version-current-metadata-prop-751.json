@@ -197,6 +197,94 @@
         ],
         "collapsed": true,
         "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Swift",
+        "items": [
+          {
+            "type": "link",
+            "label": "Swift Intro",
+            "href": "/my-note/docs/Swift/swiftNote1"
+          },
+          {
+            "type": "link",
+            "label": "變數宣告",
+            "href": "/my-note/docs/Swift/swiftNote2"
+          },
+          {
+            "type": "link",
+            "label": "資料型態",
+            "href": "/my-note/docs/Swift/swiftNote3"
+          },
+          {
+            "type": "link",
+            "label": "Typealias",
+            "href": "/my-note/docs/Swift/swiftNote4"
+          },
+          {
+            "type": "link",
+            "label": "Optional",
+            "href": "/my-note/docs/Swift/swiftNote5"
+          },
+          {
+            "type": "link",
+            "label": "if else",
+            "href": "/my-note/docs/Swift/swiftNote6"
+          },
+          {
+            "type": "link",
+            "label": "三元運算符",
+            "href": "/my-note/docs/Swift/swiftNote7"
+          },
+          {
+            "type": "link",
+            "label": "Switch",
+            "href": "/my-note/docs/Swift/swiftNote8"
+          },
+          {
+            "type": "link",
+            "label": "Function / Method",
+            "href": "/my-note/docs/Swift/swiftNote9"
+          },
+          {
+            "type": "link",
+            "label": "class",
+            "href": "/my-note/docs/Swift/swiftNote10"
+          },
+          {
+            "type": "link",
+            "label": "struct",
+            "href": "/my-note/docs/Swift/swiftNote11"
+          },
+          {
+            "type": "link",
+            "label": "shuffle & shuffled",
+            "href": "/my-note/docs/Swift/swiftNote12"
+          },
+          {
+            "type": "link",
+            "label": "Loop",
+            "href": "/my-note/docs/Swift/swiftNote13"
+          },
+          {
+            "type": "link",
+            "label": "enum",
+            "href": "/my-note/docs/Swift/swiftNote14"
+          },
+          {
+            "type": "link",
+            "label": "computed property",
+            "href": "/my-note/docs/Swift/swiftNote15"
+          },
+          {
+            "type": "link",
+            "label": "property observer",
+            "href": "/my-note/docs/Swift/swiftNote16"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   }

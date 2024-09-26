@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote8",
+  "id": "Swift/swiftNote8",
+  "isDocsHomePage": false,
+  "title": "Switch",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote8.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote8",
+  "permalink": "/my-note/docs/Swift/swiftNote8",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Switch",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三元運算符",
+    "permalink": "/my-note/docs/Swift/swiftNote7"
+  },
+  "next": {
+    "title": "Function / Method",
+    "permalink": "/my-note/docs/Swift/swiftNote9"
+  }
+}

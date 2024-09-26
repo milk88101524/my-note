@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote11",
+  "id": "Swift/swiftNote11",
+  "isDocsHomePage": false,
+  "title": "struct",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote11.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote11",
+  "permalink": "/my-note/docs/Swift/swiftNote11",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_label": "struct",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "class",
+    "permalink": "/my-note/docs/Swift/swiftNote10"
+  },
+  "next": {
+    "title": "shuffle & shuffled",
+    "permalink": "/my-note/docs/Swift/swiftNote12"
+  }
+}

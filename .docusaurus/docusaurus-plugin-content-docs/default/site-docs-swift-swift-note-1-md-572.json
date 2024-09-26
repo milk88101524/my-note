@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote1",
+  "id": "Swift/swiftNote1",
+  "isDocsHomePage": false,
+  "title": "Swift 學習筆記",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote1.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote1",
+  "permalink": "/my-note/docs/Swift/swiftNote1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Swift Intro",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "export",
+    "permalink": "/my-note/docs/JavaScript/JSNote13"
+  },
+  "next": {
+    "title": "變數宣告",
+    "permalink": "/my-note/docs/Swift/swiftNote2"
+  }
+}

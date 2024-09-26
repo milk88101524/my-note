@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote7",
+  "id": "Swift/swiftNote7",
+  "isDocsHomePage": false,
+  "title": "三元運算符",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote7.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote7",
+  "permalink": "/my-note/docs/Swift/swiftNote7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "三元運算符",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "if else",
+    "permalink": "/my-note/docs/Swift/swiftNote6"
+  },
+  "next": {
+    "title": "Switch",
+    "permalink": "/my-note/docs/Swift/swiftNote8"
+  }
+}
