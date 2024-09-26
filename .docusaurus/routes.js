@@ -9,41 +9,6 @@ export default [
     exact: true
   },
   {
-    path: '/my-note/__docusaurus/debug',
-    component: ComponentCreator('/my-note/__docusaurus/debug','17e'),
-    exact: true
-  },
-  {
-    path: '/my-note/__docusaurus/debug/config',
-    component: ComponentCreator('/my-note/__docusaurus/debug/config','152'),
-    exact: true
-  },
-  {
-    path: '/my-note/__docusaurus/debug/content',
-    component: ComponentCreator('/my-note/__docusaurus/debug/content','5f4'),
-    exact: true
-  },
-  {
-    path: '/my-note/__docusaurus/debug/globalData',
-    component: ComponentCreator('/my-note/__docusaurus/debug/globalData','dfa'),
-    exact: true
-  },
-  {
-    path: '/my-note/__docusaurus/debug/metadata',
-    component: ComponentCreator('/my-note/__docusaurus/debug/metadata','1b9'),
-    exact: true
-  },
-  {
-    path: '/my-note/__docusaurus/debug/registry',
-    component: ComponentCreator('/my-note/__docusaurus/debug/registry','a2f'),
-    exact: true
-  },
-  {
-    path: '/my-note/__docusaurus/debug/routes',
-    component: ComponentCreator('/my-note/__docusaurus/debug/routes','578'),
-    exact: true
-  },
-  {
     path: '/my-note/blog/archive',
     component: ComponentCreator('/my-note/blog/archive','ca6'),
     exact: true

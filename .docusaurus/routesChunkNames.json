@@ -1,232 +1,210 @@
 {
   "/my-note/-696": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---my-note-5-e-9-c42"
-  },
-  "/my-note/__docusaurus/debug-17e": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/my-note/__docusaurus/debug/config-152": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/my-note/__docusaurus/debug/content-5f4": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---my-note-docusaurus-debug-content-246-7cb"
-  },
-  "/my-note/__docusaurus/debug/globalData-dfa": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/my-note/__docusaurus/debug/metadata-1b9": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/my-note/__docusaurus/debug/registry-a2f": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/my-note/__docusaurus/debug/routes-578": {
-    "component": "component---theme-debug-routes-946-699"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   },
   "/my-note/blog/archive-ca6": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---my-note-blog-archivead-7-79d"
+    "component": "9e4087bc",
+    "archive": "ad75ed30"
   },
   "/my-note/docs/tags-453": {
-    "component": "component---theme-doc-tags-list-page-372-89e",
-    "tags": "tags---my-note-docs-tags-559-b5c"
+    "component": "3720c009",
+    "tags": "55960ee5"
   },
   "/my-note/markdown-page-e74": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---my-note-markdown-page-393-b94"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
   "/my-note/todo-35d": {
-    "component": "component---site-src-pages-todo-jsf-40-17f",
-    "config": "config---my-note-5-e-9-c42"
+    "component": "f40f7a49",
+    "config": "5e9f5e1a"
   },
   "/my-note/docs-7fb": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---my-note-docs-935-7a9"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/my-note/docs/intro-32a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-intro-0-e-3-35a"
+    "component": "17896441",
+    "content": "0e384e19"
   },
   "/my-note/docs/JavaScript/JSNote1-5ef": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-js-note-12-ab-d6b"
+    "component": "17896441",
+    "content": "2abb1139"
   },
   "/my-note/docs/JavaScript/JSNote11-463": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-js-note-11-f-62-ef6"
+    "component": "17896441",
+    "content": "f623c207"
   },
   "/my-note/docs/JavaScript/JSNote12-491": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-js-note-124-dd-24e"
+    "component": "17896441",
+    "content": "4dd44c92"
   },
   "/my-note/docs/JavaScript/JSNote13-f49": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-js-note-13518-835"
+    "component": "17896441",
+    "content": "518dadaa"
   },
   "/my-note/docs/JavaScript/JSNote2-25a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-js-note-2-dbd-a6e"
+    "component": "17896441",
+    "content": "dbdfafd9"
   },
   "/my-note/docs/JavaScript/JSNote3-d5d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-js-note-39-c-2-a3b"
+    "component": "17896441",
+    "content": "9c264c67"
   },
   "/my-note/docs/JavaScript/JSNote4-58c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-js-note-4-e-20-6d2"
+    "component": "17896441",
+    "content": "e209695c"
   },
   "/my-note/docs/JavaScript/types/JSNote10-6e9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-types-js-note-1077-a-592"
+    "component": "17896441",
+    "content": "77ac02e7"
   },
   "/my-note/docs/JavaScript/types/JSNote5-130": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-types-js-note-5-cf-9-cc0"
+    "component": "17896441",
+    "content": "cf9b2787"
   },
   "/my-note/docs/JavaScript/types/JSNote6-328": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-types-js-note-622-b-86e"
+    "component": "17896441",
+    "content": "22b55224"
   },
   "/my-note/docs/JavaScript/types/JSNote7-80d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-types-js-note-718-c-fbf"
+    "component": "17896441",
+    "content": "18cf6bfa"
   },
   "/my-note/docs/JavaScript/types/JSNote8-2e5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-types-js-note-815-a-049"
+    "component": "17896441",
+    "content": "15acf102"
   },
   "/my-note/docs/JavaScript/types/JSNote9-589": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-java-script-types-js-note-9162-e8c"
+    "component": "17896441",
+    "content": "1626426d"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1-e85": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-jetpack-compose-note-1-d-06-c26"
+    "component": "17896441",
+    "content": "d064fd46"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2-135": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-jetpack-compose-note-25-da-a6d"
+    "component": "17896441",
+    "content": "5da07b53"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3-0d0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-jetpack-compose-note-31-c-8-6cd"
+    "component": "17896441",
+    "content": "1c861eee"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4-81f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-jetpack-compose-note-464-b-bfe"
+    "component": "17896441",
+    "content": "64bb9570"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5-eda": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-jetpack-compose-note-59-d-9-596"
+    "component": "17896441",
+    "content": "9d991834"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6-dd0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-jetpack-compose-note-6551-a41"
+    "component": "17896441",
+    "content": "5511605e"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7-0c6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-jetpack-compose-note-7749-6f9"
+    "component": "17896441",
+    "content": "74995ea9"
   },
   "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法-578": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-kotlin-jetpack-compose-kotlin語法-29-c-dd6"
+    "component": "17896441",
+    "content": "29c68705"
   },
   "/my-note/docs/Swift/swiftNote1-7dc": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-1572-7b4"
+    "component": "17896441",
+    "content": "5722b32e"
   },
   "/my-note/docs/Swift/swiftNote10-d04": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-103-fa-907"
+    "component": "17896441",
+    "content": "3fad705e"
   },
   "/my-note/docs/Swift/swiftNote11-171": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-11-d-7-a-e96"
+    "component": "17896441",
+    "content": "d7ab1789"
   },
   "/my-note/docs/Swift/swiftNote12-cec": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-12814-503"
+    "component": "17896441",
+    "content": "814b9cc6"
   },
   "/my-note/docs/Swift/swiftNote13-244": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-13-e-25-f48"
+    "component": "17896441",
+    "content": "e255f5a8"
   },
   "/my-note/docs/Swift/swiftNote14-76c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-148-f-9-60e"
+    "component": "17896441",
+    "content": "8f9de7af"
   },
   "/my-note/docs/Swift/swiftNote15-96c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-15-de-9-314"
+    "component": "17896441",
+    "content": "de961e16"
   },
   "/my-note/docs/Swift/swiftNote16-787": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-16-a-3-c-0e1"
+    "component": "17896441",
+    "content": "a3ca3605"
   },
   "/my-note/docs/Swift/swiftNote2-d4e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-20-c-8-446"
+    "component": "17896441",
+    "content": "0c8ea775"
   },
   "/my-note/docs/Swift/swiftNote3-bec": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-35-e-7-f0c"
+    "component": "17896441",
+    "content": "5e7934ee"
   },
   "/my-note/docs/Swift/swiftNote4-fcc": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-4-e-27-c2d"
+    "component": "17896441",
+    "content": "e27c578b"
   },
   "/my-note/docs/Swift/swiftNote5-820": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-5-fdb-f93"
+    "component": "17896441",
+    "content": "fdbc6cab"
   },
   "/my-note/docs/Swift/swiftNote6-237": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-62-bc-298"
+    "component": "17896441",
+    "content": "2bc98965"
   },
   "/my-note/docs/Swift/swiftNote7-555": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-730-d-95f"
+    "component": "17896441",
+    "content": "30db01a9"
   },
   "/my-note/docs/Swift/swiftNote8-06a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-86-c-4-be4"
+    "component": "17896441",
+    "content": "6c46a5e6"
   },
   "/my-note/docs/Swift/swiftNote9-5c7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-swift-swift-note-9-a-08-f98"
+    "component": "17896441",
+    "content": "a08e0131"
   },
   "/my-note/docs/tutorial-basics/congratulations-320": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-basics-congratulations-822-48f"
+    "component": "17896441",
+    "content": "822bd8ab"
   },
   "/my-note/docs/tutorial-basics/create-a-blog-post-644": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-basics-create-a-blog-post-533-937"
+    "component": "17896441",
+    "content": "533a09ca"
   },
   "/my-note/docs/tutorial-basics/create-a-document-fb2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-basics-create-a-document-1-e-4-5a7"
+    "component": "17896441",
+    "content": "1e4232ab"
   },
   "/my-note/docs/tutorial-basics/create-a-page-aa2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-basics-create-a-page-5-c-8-10b"
+    "component": "17896441",
+    "content": "5c868d36"
   },
   "/my-note/docs/tutorial-basics/deploy-your-site-6e9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-basics-deploy-your-sitef-55-cae"
+    "component": "17896441",
+    "content": "f55d3e7a"
   },
   "/my-note/docs/tutorial-basics/markdown-features-8fd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-basics-markdown-features-18-c-aec"
+    "component": "17896441",
+    "content": "18c41134"
   },
   "/my-note/docs/tutorial-extras/manage-docs-versions-54c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-extras-manage-docs-versionsdff-3aa"
+    "component": "17896441",
+    "content": "dff1c289"
   },
   "/my-note/docs/tutorial-extras/translate-your-site-90a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-note-docs-tutorial-extras-translate-your-sitee-44-586"
+    "component": "17896441",
+    "content": "e44a2883"
   }
 }
