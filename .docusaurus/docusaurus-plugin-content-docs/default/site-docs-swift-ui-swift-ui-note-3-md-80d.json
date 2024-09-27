@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SwiftUI/swiftUINote3",
+  "id": "SwiftUI/swiftUINote3",
+  "isDocsHomePage": false,
+  "title": "SwiftUI 與 Jetpack Compose 的差別",
+  "description": "---",
+  "source": "@site/docs/SwiftUI/swiftUINote3.md",
+  "sourceDirName": "SwiftUI",
+  "slug": "/SwiftUI/swiftUINote3",
+  "permalink": "/my-note/docs/SwiftUI/swiftUINote3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "SwiftUI 與 Jetpack Compose 的差別",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SwiftUI",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote2"
+  },
+  "next": {
+    "title": "UI Design",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote4"
+  }
+}

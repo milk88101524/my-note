@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Compose 實現 MVP 與 MVVM 架構",
-    "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+    "title": "Core Data",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote9"
   },
   "next": {
     "title": "TypeScript跟 JS 的差異",

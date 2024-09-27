@@ -1,5 +1,5 @@
 ---
-sidebar_label: "property observer"
+sidebar_label: "Property Observer"
 sidebar_position: 16
 ---
 

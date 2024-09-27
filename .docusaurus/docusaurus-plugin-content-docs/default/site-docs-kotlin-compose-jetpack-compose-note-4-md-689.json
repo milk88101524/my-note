@@ -1,0 +1,27 @@
+{
+  "unversionedId": "KotlinCompose/JetpackComposeNote4",
+  "id": "KotlinCompose/JetpackComposeNote4",
+  "isDocsHomePage": false,
+  "title": "() -> Unit 與 @Composable () -> Unit",
+  "description": "---",
+  "source": "@site/docs/KotlinCompose/JetpackComposeNote4.md",
+  "sourceDirName": "KotlinCompose",
+  "slug": "/KotlinCompose/JetpackComposeNote4",
+  "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "() -> Unit 與 @Composable () -> Unit",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Composable",
+    "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote3"
+  },
+  "next": {
+    "title": "狀態管理",
+    "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote5"
+  }
+}

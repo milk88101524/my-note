@@ -9,6 +9,41 @@ export default [
     exact: true
   },
   {
+    path: '/my-note/__docusaurus/debug',
+    component: ComponentCreator('/my-note/__docusaurus/debug','17e'),
+    exact: true
+  },
+  {
+    path: '/my-note/__docusaurus/debug/config',
+    component: ComponentCreator('/my-note/__docusaurus/debug/config','152'),
+    exact: true
+  },
+  {
+    path: '/my-note/__docusaurus/debug/content',
+    component: ComponentCreator('/my-note/__docusaurus/debug/content','5f4'),
+    exact: true
+  },
+  {
+    path: '/my-note/__docusaurus/debug/globalData',
+    component: ComponentCreator('/my-note/__docusaurus/debug/globalData','dfa'),
+    exact: true
+  },
+  {
+    path: '/my-note/__docusaurus/debug/metadata',
+    component: ComponentCreator('/my-note/__docusaurus/debug/metadata','1b9'),
+    exact: true
+  },
+  {
+    path: '/my-note/__docusaurus/debug/registry',
+    component: ComponentCreator('/my-note/__docusaurus/debug/registry','a2f'),
+    exact: true
+  },
+  {
+    path: '/my-note/__docusaurus/debug/routes',
+    component: ComponentCreator('/my-note/__docusaurus/debug/routes','578'),
+    exact: true
+  },
+  {
     path: '/my-note/blog/archive',
     component: ComponentCreator('/my-note/blog/archive','ca6'),
     exact: true
@@ -30,7 +65,7 @@ export default [
   },
   {
     path: '/my-note/docs',
-    component: ComponentCreator('/my-note/docs','7fb'),
+    component: ComponentCreator('/my-note/docs','fa3'),
     routes: [
       {
         path: '/my-note/docs/intro',
@@ -59,6 +94,18 @@ export default [
       {
         path: '/my-note/docs/JavaScript/JSNote13',
         component: ComponentCreator('/my-note/docs/JavaScript/JSNote13','f49'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote14',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote14','cea'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/JavaScript/JSNote15',
+        component: ComponentCreator('/my-note/docs/JavaScript/JSNote15','cd6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -117,50 +164,56 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1','e85'),
+        path: '/my-note/docs/KotlinCompose/JetpackComposeNote1',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/JetpackComposeNote1','a1c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2','135'),
+        path: '/my-note/docs/KotlinCompose/JetpackComposeNote2',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/JetpackComposeNote2','529'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3','0d0'),
+        path: '/my-note/docs/KotlinCompose/JetpackComposeNote3',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/JetpackComposeNote3','9be'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4','81f'),
+        path: '/my-note/docs/KotlinCompose/JetpackComposeNote4',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/JetpackComposeNote4','ed7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5','eda'),
+        path: '/my-note/docs/KotlinCompose/JetpackComposeNote5',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/JetpackComposeNote5','9dd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6','dd0'),
+        path: '/my-note/docs/KotlinCompose/JetpackComposeNote6',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/JetpackComposeNote6','9c9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7','0c6'),
+        path: '/my-note/docs/KotlinCompose/JetpackComposeNote7',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/JetpackComposeNote7','6bf'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法',
-        component: ComponentCreator('/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法','578'),
+        path: '/my-note/docs/KotlinCompose/Kotlin&ComposeIntro',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/Kotlin&ComposeIntro','1ae'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/KotlinCompose/Kotlin語法',
+        component: ComponentCreator('/my-note/docs/KotlinCompose/Kotlin語法','b4d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -213,6 +266,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/my-note/docs/Swift/swiftNote17',
+        component: ComponentCreator('/my-note/docs/Swift/swiftNote17','7fc'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/my-note/docs/Swift/swiftNote2',
         component: ComponentCreator('/my-note/docs/Swift/swiftNote2','d4e'),
         exact: true,
@@ -257,6 +316,60 @@ export default [
       {
         path: '/my-note/docs/Swift/swiftNote9',
         component: ComponentCreator('/my-note/docs/Swift/swiftNote9','5c7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote1',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote1','6c6'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote2',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote2','dbf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote3',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote3','4f2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote4',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote4','dd5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote5',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote5','193'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote6',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote6','8eb'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote7',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote7','257'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote8',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote8','d60'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-note/docs/SwiftUI/swiftUINote9',
+        component: ComponentCreator('/my-note/docs/SwiftUI/swiftUINote9','0d4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

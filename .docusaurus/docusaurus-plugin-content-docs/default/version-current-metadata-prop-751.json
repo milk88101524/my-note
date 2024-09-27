@@ -9,109 +9,53 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/my-note/docs/intro"
-      },
-      {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Kotlin & Compose",
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/my-note/docs/tutorial-basics/create-a-page"
+            "label": "Kotlin & Compose Intro",
+            "href": "/my-note/docs/KotlinCompose/Kotlin&ComposeIntro"
           },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/my-note/docs/tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/my-note/docs/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/my-note/docs/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/my-note/docs/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/my-note/docs/tutorial-basics/congratulations"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/my-note/docs/tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/my-note/docs/tutorial-extras/translate-your-site"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Kotlin & Compose",
-        "items": [
           {
             "type": "link",
             "label": "Kotlin 語法",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法"
+            "href": "/my-note/docs/KotlinCompose/Kotlin語法"
           },
           {
             "type": "link",
             "label": "啥是 Jetpack Compose",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
+            "href": "/my-note/docs/KotlinCompose/JetpackComposeNote1"
           },
           {
             "type": "link",
             "label": "Jetpack Compose 工具介紹",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
+            "href": "/my-note/docs/KotlinCompose/JetpackComposeNote2"
           },
           {
             "type": "link",
             "label": "Composable",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
+            "href": "/my-note/docs/KotlinCompose/JetpackComposeNote3"
           },
           {
             "type": "link",
             "label": "() -> Unit 與 @Composable () -> Unit",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4"
+            "href": "/my-note/docs/KotlinCompose/JetpackComposeNote4"
           },
           {
             "type": "link",
             "label": "狀態管理",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5"
+            "href": "/my-note/docs/KotlinCompose/JetpackComposeNote5"
           },
           {
             "type": "link",
             "label": "Navigation",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
+            "href": "/my-note/docs/KotlinCompose/JetpackComposeNote6"
           },
           {
             "type": "link",
             "label": "Compose 實現 MVP 與 MVVM 架構",
-            "href": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+            "href": "/my-note/docs/KotlinCompose/JetpackComposeNote7"
           }
         ],
         "collapsed": true,
@@ -119,7 +63,153 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Java Script",
+        "label": "Swift",
+        "items": [
+          {
+            "type": "link",
+            "label": "Swift Intro",
+            "href": "/my-note/docs/Swift/swiftNote1"
+          },
+          {
+            "type": "link",
+            "label": "變數宣告",
+            "href": "/my-note/docs/Swift/swiftNote2"
+          },
+          {
+            "type": "link",
+            "label": "資料型態",
+            "href": "/my-note/docs/Swift/swiftNote3"
+          },
+          {
+            "type": "link",
+            "label": "Typealias",
+            "href": "/my-note/docs/Swift/swiftNote4"
+          },
+          {
+            "type": "link",
+            "label": "Optional",
+            "href": "/my-note/docs/Swift/swiftNote5"
+          },
+          {
+            "type": "link",
+            "label": "If Else",
+            "href": "/my-note/docs/Swift/swiftNote6"
+          },
+          {
+            "type": "link",
+            "label": "三元運算符",
+            "href": "/my-note/docs/Swift/swiftNote7"
+          },
+          {
+            "type": "link",
+            "label": "Switch",
+            "href": "/my-note/docs/Swift/swiftNote8"
+          },
+          {
+            "type": "link",
+            "label": "Function / Method",
+            "href": "/my-note/docs/Swift/swiftNote9"
+          },
+          {
+            "type": "link",
+            "label": "Class",
+            "href": "/my-note/docs/Swift/swiftNote10"
+          },
+          {
+            "type": "link",
+            "label": "Struct",
+            "href": "/my-note/docs/Swift/swiftNote11"
+          },
+          {
+            "type": "link",
+            "label": "Shuffle & Shuffled",
+            "href": "/my-note/docs/Swift/swiftNote12"
+          },
+          {
+            "type": "link",
+            "label": "Loop",
+            "href": "/my-note/docs/Swift/swiftNote13"
+          },
+          {
+            "type": "link",
+            "label": "Enum",
+            "href": "/my-note/docs/Swift/swiftNote14"
+          },
+          {
+            "type": "link",
+            "label": "Computed Property",
+            "href": "/my-note/docs/Swift/swiftNote15"
+          },
+          {
+            "type": "link",
+            "label": "Property Observer",
+            "href": "/my-note/docs/Swift/swiftNote16"
+          },
+          {
+            "type": "link",
+            "label": "Protocol & Delegate",
+            "href": "/my-note/docs/Swift/swiftNote17"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "SwiftUI",
+        "items": [
+          {
+            "type": "link",
+            "label": "SwiftUI Intro",
+            "href": "/my-note/docs/SwiftUI/swiftUINote1"
+          },
+          {
+            "type": "link",
+            "label": "SwiftUI",
+            "href": "/my-note/docs/SwiftUI/swiftUINote2"
+          },
+          {
+            "type": "link",
+            "label": "SwiftUI 與 Jetpack Compose 的差別",
+            "href": "/my-note/docs/SwiftUI/swiftUINote3"
+          },
+          {
+            "type": "link",
+            "label": "UI Design",
+            "href": "/my-note/docs/SwiftUI/swiftUINote4"
+          },
+          {
+            "type": "link",
+            "label": "SwiftUI 常用的 Modifier",
+            "href": "/my-note/docs/SwiftUI/swiftUINote5"
+          },
+          {
+            "type": "link",
+            "label": "SwiftUI 切換頁面的方法",
+            "href": "/my-note/docs/SwiftUI/swiftUINote6"
+          },
+          {
+            "type": "link",
+            "label": "本地儲存",
+            "href": "/my-note/docs/SwiftUI/swiftUINote7"
+          },
+          {
+            "type": "link",
+            "label": "UserDefaults",
+            "href": "/my-note/docs/SwiftUI/swiftUINote8"
+          },
+          {
+            "type": "link",
+            "label": "Core Data",
+            "href": "/my-note/docs/SwiftUI/swiftUINote9"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Java Script",
         "items": [
           {
             "type": "link",
@@ -191,6 +281,16 @@
           },
           {
             "type": "link",
+            "label": "Try Catch",
+            "href": "/my-note/docs/JavaScript/JSNote14"
+          },
+          {
+            "type": "link",
+            "label": "非同步",
+            "href": "/my-note/docs/JavaScript/JSNote15"
+          },
+          {
+            "type": "link",
             "label": "export",
             "href": "/my-note/docs/JavaScript/JSNote13"
           }
@@ -199,88 +299,61 @@
         "collapsible": true
       },
       {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/my-note/docs/intro"
+      },
+      {
         "type": "category",
-        "label": "Tutorial - Swift",
+        "label": "Tutorial - Basics",
         "items": [
           {
             "type": "link",
-            "label": "Swift Intro",
-            "href": "/my-note/docs/Swift/swiftNote1"
+            "label": "Create a Page",
+            "href": "/my-note/docs/tutorial-basics/create-a-page"
           },
           {
             "type": "link",
-            "label": "變數宣告",
-            "href": "/my-note/docs/Swift/swiftNote2"
+            "label": "Create a Document",
+            "href": "/my-note/docs/tutorial-basics/create-a-document"
           },
           {
             "type": "link",
-            "label": "資料型態",
-            "href": "/my-note/docs/Swift/swiftNote3"
+            "label": "Create a Blog Post",
+            "href": "/my-note/docs/tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
-            "label": "Typealias",
-            "href": "/my-note/docs/Swift/swiftNote4"
+            "label": "Markdown Features",
+            "href": "/my-note/docs/tutorial-basics/markdown-features"
           },
           {
             "type": "link",
-            "label": "Optional",
-            "href": "/my-note/docs/Swift/swiftNote5"
+            "label": "Deploy your site",
+            "href": "/my-note/docs/tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
-            "label": "if else",
-            "href": "/my-note/docs/Swift/swiftNote6"
+            "label": "Congratulations!",
+            "href": "/my-note/docs/tutorial-basics/congratulations"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/my-note/docs/tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
-            "label": "三元運算符",
-            "href": "/my-note/docs/Swift/swiftNote7"
-          },
-          {
-            "type": "link",
-            "label": "Switch",
-            "href": "/my-note/docs/Swift/swiftNote8"
-          },
-          {
-            "type": "link",
-            "label": "Function / Method",
-            "href": "/my-note/docs/Swift/swiftNote9"
-          },
-          {
-            "type": "link",
-            "label": "class",
-            "href": "/my-note/docs/Swift/swiftNote10"
-          },
-          {
-            "type": "link",
-            "label": "struct",
-            "href": "/my-note/docs/Swift/swiftNote11"
-          },
-          {
-            "type": "link",
-            "label": "shuffle & shuffled",
-            "href": "/my-note/docs/Swift/swiftNote12"
-          },
-          {
-            "type": "link",
-            "label": "Loop",
-            "href": "/my-note/docs/Swift/swiftNote13"
-          },
-          {
-            "type": "link",
-            "label": "enum",
-            "href": "/my-note/docs/Swift/swiftNote14"
-          },
-          {
-            "type": "link",
-            "label": "computed property",
-            "href": "/my-note/docs/Swift/swiftNote15"
-          },
-          {
-            "type": "link",
-            "label": "property observer",
-            "href": "/my-note/docs/Swift/swiftNote16"
+            "label": "Translate your site",
+            "href": "/my-note/docs/tutorial-extras/translate-your-site"
           }
         ],
         "collapsed": true,

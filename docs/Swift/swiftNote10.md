@@ -1,5 +1,5 @@
 ---
-sidebar_label: "class"
+sidebar_label: "Class"
 sidebar_position: 10
 ---
 

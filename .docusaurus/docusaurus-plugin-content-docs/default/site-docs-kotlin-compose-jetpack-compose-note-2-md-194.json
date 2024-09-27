@@ -1,0 +1,27 @@
+{
+  "unversionedId": "KotlinCompose/JetpackComposeNote2",
+  "id": "KotlinCompose/JetpackComposeNote2",
+  "isDocsHomePage": false,
+  "title": "UI ( Widget / Composable ) 設計與程式撰寫",
+  "description": "---",
+  "source": "@site/docs/KotlinCompose/JetpackComposeNote2.md",
+  "sourceDirName": "KotlinCompose",
+  "slug": "/KotlinCompose/JetpackComposeNote2",
+  "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote2",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Jetpack Compose 工具介紹",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "啥是 Jetpack Compose",
+    "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote1"
+  },
+  "next": {
+    "title": "Composable",
+    "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote3"
+  }
+}

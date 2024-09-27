@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/JSNote15",
+  "id": "JavaScript/JSNote15",
+  "isDocsHomePage": false,
+  "title": "非同步",
+  "description": "---",
+  "source": "@site/docs/JavaScript/JSNote15.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/JSNote15",
+  "permalink": "/my-note/docs/JavaScript/JSNote15",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "非同步",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Try Catch",
+    "permalink": "/my-note/docs/JavaScript/JSNote14"
+  },
+  "next": {
+    "title": "export",
+    "permalink": "/my-note/docs/JavaScript/JSNote13"
+  }
+}

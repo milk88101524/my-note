@@ -1,5 +1,5 @@
 ---
-sidebar_label: "shuffle & shuffled"
+sidebar_label: "Shuffle & Shuffled"
 sidebar_position: 12
 ---
 

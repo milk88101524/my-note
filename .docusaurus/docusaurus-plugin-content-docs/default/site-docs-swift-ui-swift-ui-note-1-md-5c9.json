@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SwiftUI/swiftUINote1",
+  "id": "SwiftUI/swiftUINote1",
+  "isDocsHomePage": false,
+  "title": "SwiftUI",
+  "description": "---",
+  "source": "@site/docs/SwiftUI/swiftUINote1.md",
+  "sourceDirName": "SwiftUI",
+  "slug": "/SwiftUI/swiftUINote1",
+  "permalink": "/my-note/docs/SwiftUI/swiftUINote1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "SwiftUI Intro",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Protocol & Delegate",
+    "permalink": "/my-note/docs/Swift/swiftNote17"
+  },
+  "next": {
+    "title": "SwiftUI",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote2"
+  }
+}

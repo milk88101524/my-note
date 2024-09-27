@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SwiftUI/swiftUINote8",
+  "id": "SwiftUI/swiftUINote8",
+  "isDocsHomePage": false,
+  "title": "UserDefaults",
+  "description": "---",
+  "source": "@site/docs/SwiftUI/swiftUINote8.md",
+  "sourceDirName": "SwiftUI",
+  "slug": "/SwiftUI/swiftUINote8",
+  "permalink": "/my-note/docs/SwiftUI/swiftUINote8",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "UserDefaults",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "本地儲存",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote7"
+  },
+  "next": {
+    "title": "Core Data",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote9"
+  }
+}

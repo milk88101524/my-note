@@ -10,14 +10,14 @@
   "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Translate your site",
-    "permalink": "/my-note/docs/tutorial-extras/translate-your-site"
+    "title": "Kotlin & Compose Intro",
+    "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin&ComposeIntro"
   },
   "next": {
     "title": "啥是 Jetpack Compose",

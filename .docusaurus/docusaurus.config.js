@@ -26,7 +26,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Han 的學習日記",
+      "title": "Han の 學習日記",
       "items": [
         {
           "type": "doc",
@@ -35,12 +35,62 @@ export default {
           "label": "Tutorial"
         },
         {
+          "href": "https://medium.com/@milk88101524",
+          "label": "Han の medium",
+          "position": "left"
+        },
+        {
           "href": "https://github.com/milk88101524/",
-          "label": "Han 的 GitHub",
+          "label": "Han の GitHub",
           "position": "right"
         }
       ],
       "hideOnScroll": false
+    },
+    "footer": {
+      "style": "dark",
+      "links": [
+        {
+          "title": "Docs",
+          "items": [
+            {
+              "label": "Tutorial",
+              "to": "/docs/intro"
+            }
+          ]
+        },
+        {
+          "title": "Community",
+          "items": [
+            {
+              "label": "Stack Overflow",
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+            },
+            {
+              "label": "Discord",
+              "href": "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
+            }
+          ]
+        },
+        {
+          "title": "More",
+          "items": [
+            {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/facebook/docusaurus"
+            }
+          ]
+        }
+      ],
+      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

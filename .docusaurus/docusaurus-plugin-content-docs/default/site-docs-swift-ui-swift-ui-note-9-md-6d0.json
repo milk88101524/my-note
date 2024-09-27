@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SwiftUI/swiftUINote9",
+  "id": "SwiftUI/swiftUINote9",
+  "isDocsHomePage": false,
+  "title": "Core Data",
+  "description": "---",
+  "source": "@site/docs/SwiftUI/swiftUINote9.md",
+  "sourceDirName": "SwiftUI",
+  "slug": "/SwiftUI/swiftUINote9",
+  "permalink": "/my-note/docs/SwiftUI/swiftUINote9",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Core Data",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UserDefaults",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote8"
+  },
+  "next": {
+    "title": "JavaScript Intro",
+    "permalink": "/my-note/docs/JavaScript/JSNote1"
+  }
+}

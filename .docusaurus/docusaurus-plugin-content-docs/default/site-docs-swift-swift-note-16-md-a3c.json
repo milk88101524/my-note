@@ -12,12 +12,16 @@
   "version": "current",
   "sidebarPosition": 16,
   "frontMatter": {
-    "sidebar_label": "property observer",
+    "sidebar_label": "Property Observer",
     "sidebar_position": 16
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "computed property",
+    "title": "Computed Property",
     "permalink": "/my-note/docs/Swift/swiftNote15"
+  },
+  "next": {
+    "title": "Protocol & Delegate",
+    "permalink": "/my-note/docs/Swift/swiftNote17"
   }
 }

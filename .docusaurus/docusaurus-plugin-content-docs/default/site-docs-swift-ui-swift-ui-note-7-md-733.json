@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SwiftUI/swiftUINote7",
+  "id": "SwiftUI/swiftUINote7",
+  "isDocsHomePage": false,
+  "title": "本地儲存",
+  "description": "---",
+  "source": "@site/docs/SwiftUI/swiftUINote7.md",
+  "sourceDirName": "SwiftUI",
+  "slug": "/SwiftUI/swiftUINote7",
+  "permalink": "/my-note/docs/SwiftUI/swiftUINote7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "本地儲存",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SwiftUI 切換頁面的方法",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote6"
+  },
+  "next": {
+    "title": "UserDefaults",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote8"
+  }
+}

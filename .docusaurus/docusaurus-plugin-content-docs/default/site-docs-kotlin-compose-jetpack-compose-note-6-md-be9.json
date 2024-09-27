@@ -1,0 +1,27 @@
+{
+  "unversionedId": "KotlinCompose/JetpackComposeNote6",
+  "id": "KotlinCompose/JetpackComposeNote6",
+  "isDocsHomePage": false,
+  "title": "Navigation",
+  "description": "---",
+  "source": "@site/docs/KotlinCompose/JetpackComposeNote6.md",
+  "sourceDirName": "KotlinCompose",
+  "slug": "/KotlinCompose/JetpackComposeNote6",
+  "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote6",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Navigation",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "狀態管理",
+    "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote5"
+  },
+  "next": {
+    "title": "Compose 實現 MVP 與 MVVM 架構",
+    "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote7"
+  }
+}

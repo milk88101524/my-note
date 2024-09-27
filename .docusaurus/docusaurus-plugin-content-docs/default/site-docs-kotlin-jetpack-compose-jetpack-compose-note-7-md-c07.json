@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Kotlin&Jetpack Compose/JetpackComposeNote7",
+  "id": "Kotlin&Jetpack Compose/JetpackComposeNote7",
+  "isDocsHomePage": false,
+  "title": "Compose 實現 MVP 與 MVVM 架構",
+  "description": "---",
+  "source": "@site/docs/Kotlin&Jetpack Compose/JetpackComposeNote7.md",
+  "sourceDirName": "Kotlin&Jetpack Compose",
+  "slug": "/Kotlin&Jetpack Compose/JetpackComposeNote7",
+  "permalink": "/my-note/docs/Kotlin&Jetpack Compose/JetpackComposeNote7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Compose 實現 MVP 與 MVVM 架構",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation",
+    "permalink": "/my-note/docs/Kotlin&Jetpack Compose/JetpackComposeNote6"
+  },
+  "next": {
+    "title": "Swift Intro",
+    "permalink": "/my-note/docs/Swift/swiftNote1"
+  }
+}

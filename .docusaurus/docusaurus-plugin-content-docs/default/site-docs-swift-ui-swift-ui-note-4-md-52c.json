@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SwiftUI/swiftUINote4",
+  "id": "SwiftUI/swiftUINote4",
+  "isDocsHomePage": false,
+  "title": "UI Design",
+  "description": "---",
+  "source": "@site/docs/SwiftUI/swiftUINote4.md",
+  "sourceDirName": "SwiftUI",
+  "slug": "/SwiftUI/swiftUINote4",
+  "permalink": "/my-note/docs/SwiftUI/swiftUINote4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "UI Design",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SwiftUI 與 Jetpack Compose 的差別",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote3"
+  },
+  "next": {
+    "title": "SwiftUI 常用的 Modifier",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote5"
+  }
+}

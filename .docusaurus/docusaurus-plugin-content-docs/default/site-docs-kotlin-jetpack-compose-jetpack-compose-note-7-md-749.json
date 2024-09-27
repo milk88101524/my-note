@@ -10,10 +10,10 @@
   "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 8,
+  "sidebarPosition": 9,
   "frontMatter": {
     "sidebar_label": "Compose 實現 MVP 與 MVVM 架構",
-    "sidebar_position": 8
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
   },
   "next": {
-    "title": "JavaScript Intro",
-    "permalink": "/my-note/docs/JavaScript/JSNote1"
+    "title": "Swift Intro",
+    "permalink": "/my-note/docs/Swift/swiftNote1"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "KotlinJetpack Compose/Kotlin&ComposeIntro",
+  "id": "KotlinJetpack Compose/Kotlin&ComposeIntro",
+  "isDocsHomePage": false,
+  "title": "Kotlin & Compose Intro",
+  "description": "---",
+  "source": "@site/docs/KotlinJetpack Compose/Kotlin&ComposeIntro.md",
+  "sourceDirName": "KotlinJetpack Compose",
+  "slug": "/KotlinJetpack Compose/Kotlin&ComposeIntro",
+  "permalink": "/my-note/docs/KotlinJetpack Compose/Kotlin&ComposeIntro",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Kotlin & Compose Intro",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Kotlin 語法",
+    "permalink": "/my-note/docs/KotlinJetpack Compose/Kotlin語法"
+  }
+}

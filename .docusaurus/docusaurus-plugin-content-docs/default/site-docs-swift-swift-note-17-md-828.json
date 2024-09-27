@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Swift/swiftNote17",
+  "id": "Swift/swiftNote17",
+  "isDocsHomePage": false,
+  "title": "Protocol & Delegate",
+  "description": "---",
+  "source": "@site/docs/Swift/swiftNote17.md",
+  "sourceDirName": "Swift",
+  "slug": "/Swift/swiftNote17",
+  "permalink": "/my-note/docs/Swift/swiftNote17",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_label": "Protocol & Delegate",
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Property Observer",
+    "permalink": "/my-note/docs/Swift/swiftNote16"
+  },
+  "next": {
+    "title": "SwiftUI Intro",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote1"
+  }
+}

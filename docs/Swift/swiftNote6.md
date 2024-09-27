@@ -1,5 +1,5 @@
 ---
-sidebar_label: "if else"
+sidebar_label: "If Else"
 sidebar_position: 6
 ---
 

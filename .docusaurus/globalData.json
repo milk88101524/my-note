@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/my-note/docs",
-          "mainDocId": "intro",
+          "mainDocId": "KotlinCompose/Kotlin&ComposeIntro",
           "docs": [
             {
               "id": "intro",
@@ -33,6 +33,16 @@
             {
               "id": "JavaScript/JSNote13",
               "path": "/my-note/docs/JavaScript/JSNote13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote14",
+              "path": "/my-note/docs/JavaScript/JSNote14",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JavaScript/JSNote15",
+              "path": "/my-note/docs/JavaScript/JSNote15",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -81,43 +91,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "id": "KotlinCompose/JetpackComposeNote1",
+              "path": "/my-note/docs/KotlinCompose/JetpackComposeNote1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote2",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "id": "KotlinCompose/JetpackComposeNote2",
+              "path": "/my-note/docs/KotlinCompose/JetpackComposeNote2",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "id": "KotlinCompose/JetpackComposeNote3",
+              "path": "/my-note/docs/KotlinCompose/JetpackComposeNote3",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote4",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "id": "KotlinCompose/JetpackComposeNote4",
+              "path": "/my-note/docs/KotlinCompose/JetpackComposeNote4",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote5",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "id": "KotlinCompose/JetpackComposeNote5",
+              "path": "/my-note/docs/KotlinCompose/JetpackComposeNote5",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote6",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "id": "KotlinCompose/JetpackComposeNote6",
+              "path": "/my-note/docs/KotlinCompose/JetpackComposeNote6",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote7",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "id": "KotlinCompose/JetpackComposeNote7",
+              "path": "/my-note/docs/KotlinCompose/JetpackComposeNote7",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kotlin & Jetpack Compose/Kotlin語法",
-              "path": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法",
+              "id": "KotlinCompose/Kotlin&ComposeIntro",
+              "path": "/my-note/docs/KotlinCompose/Kotlin&ComposeIntro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "KotlinCompose/Kotlin語法",
+              "path": "/my-note/docs/KotlinCompose/Kotlin語法",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -161,6 +176,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Swift/swiftNote17",
+              "path": "/my-note/docs/Swift/swiftNote17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Swift/swiftNote2",
               "path": "/my-note/docs/Swift/swiftNote2",
               "sidebar": "tutorialSidebar"
@@ -198,6 +218,51 @@
             {
               "id": "Swift/swiftNote9",
               "path": "/my-note/docs/Swift/swiftNote9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote1",
+              "path": "/my-note/docs/SwiftUI/swiftUINote1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote2",
+              "path": "/my-note/docs/SwiftUI/swiftUINote2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote3",
+              "path": "/my-note/docs/SwiftUI/swiftUINote3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote4",
+              "path": "/my-note/docs/SwiftUI/swiftUINote4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote5",
+              "path": "/my-note/docs/SwiftUI/swiftUINote5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote6",
+              "path": "/my-note/docs/SwiftUI/swiftUINote6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote7",
+              "path": "/my-note/docs/SwiftUI/swiftUINote7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote8",
+              "path": "/my-note/docs/SwiftUI/swiftUINote8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SwiftUI/swiftUINote9",
+              "path": "/my-note/docs/SwiftUI/swiftUINote9",
               "sidebar": "tutorialSidebar"
             },
             {

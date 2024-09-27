@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SwiftUI/swiftUINote5",
+  "id": "SwiftUI/swiftUINote5",
+  "isDocsHomePage": false,
+  "title": "SwiftUI 常用的 Modifier",
+  "description": "---",
+  "source": "@site/docs/SwiftUI/swiftUINote5.md",
+  "sourceDirName": "SwiftUI",
+  "slug": "/SwiftUI/swiftUINote5",
+  "permalink": "/my-note/docs/SwiftUI/swiftUINote5",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "SwiftUI 常用的 Modifier",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UI Design",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote4"
+  },
+  "next": {
+    "title": "SwiftUI 切換頁面的方法",
+    "permalink": "/my-note/docs/SwiftUI/swiftUINote6"
+  }
+}

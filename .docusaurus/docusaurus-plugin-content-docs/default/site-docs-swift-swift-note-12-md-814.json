@@ -12,12 +12,12 @@
   "version": "current",
   "sidebarPosition": 12,
   "frontMatter": {
-    "sidebar_label": "shuffle & shuffled",
+    "sidebar_label": "Shuffle & Shuffled",
     "sidebar_position": 12
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "struct",
+    "title": "Struct",
     "permalink": "/my-note/docs/Swift/swiftNote11"
   },
   "next": {

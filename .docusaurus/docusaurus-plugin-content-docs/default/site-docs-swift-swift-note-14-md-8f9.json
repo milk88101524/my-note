@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 14,
   "frontMatter": {
-    "sidebar_label": "enum",
+    "sidebar_label": "Enum",
     "sidebar_position": 14
   },
   "sidebar": "tutorialSidebar",
@@ -21,7 +21,7 @@
     "permalink": "/my-note/docs/Swift/swiftNote13"
   },
   "next": {
-    "title": "computed property",
+    "title": "Computed Property",
     "permalink": "/my-note/docs/Swift/swiftNote15"
   }
 }

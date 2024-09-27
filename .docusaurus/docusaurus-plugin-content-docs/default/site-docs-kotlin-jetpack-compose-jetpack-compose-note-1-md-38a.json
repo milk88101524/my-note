@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Kotlin&Jetpack Compose/JetpackComposeNote1",
+  "id": "Kotlin&Jetpack Compose/JetpackComposeNote1",
+  "isDocsHomePage": false,
+  "title": "啥是 Jetpack Compose",
+  "description": "---",
+  "source": "@site/docs/Kotlin&Jetpack Compose/JetpackComposeNote1.md",
+  "sourceDirName": "Kotlin&Jetpack Compose",
+  "slug": "/Kotlin&Jetpack Compose/JetpackComposeNote1",
+  "permalink": "/my-note/docs/Kotlin&Jetpack Compose/JetpackComposeNote1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "啥是 Jetpack Compose",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kotlin 語法",
+    "permalink": "/my-note/docs/Kotlin&Jetpack Compose/Kotlin語法"
+  },
+  "next": {
+    "title": "Jetpack Compose 工具介紹",
+    "permalink": "/my-note/docs/Kotlin&Jetpack Compose/JetpackComposeNote2"
+  }
+}

@@ -10,10 +10,10 @@
   "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_label": "狀態管理",
-    "sidebar_position": 6
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {

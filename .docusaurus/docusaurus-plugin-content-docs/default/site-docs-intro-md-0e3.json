@@ -10,11 +10,15 @@
   "permalink": "/my-note/docs/intro",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "export",
+    "permalink": "/my-note/docs/JavaScript/JSNote13"
+  },
   "next": {
     "title": "Create a Page",
     "permalink": "/my-note/docs/tutorial-basics/create-a-page"

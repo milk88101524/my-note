@@ -12,16 +12,16 @@
   "version": "current",
   "sidebarPosition": 15,
   "frontMatter": {
-    "sidebar_label": "computed property",
+    "sidebar_label": "Computed Property",
     "sidebar_position": 15
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "enum",
+    "title": "Enum",
     "permalink": "/my-note/docs/Swift/swiftNote14"
   },
   "next": {
-    "title": "property observer",
+    "title": "Property Observer",
     "permalink": "/my-note/docs/Swift/swiftNote16"
   }
 }

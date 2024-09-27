@@ -1,5 +1,5 @@
 ---
-sidebar_label: "computed property"
+sidebar_label: "Computed Property"
 sidebar_position: 15
 ---
 

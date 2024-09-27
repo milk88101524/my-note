@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "export",
-    "permalink": "/my-note/docs/JavaScript/JSNote13"
+    "title": "Compose 實現 MVP 與 MVVM 架構",
+    "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote7"
   },
   "next": {
     "title": "變數宣告",

@@ -15,102 +15,55 @@
           "sidebarFilePath": "/Users/han/GitHub_Notes/my-note/sidebars.js",
           "contentPath": "/Users/han/GitHub_Notes/my-note/docs",
           "contentPathLocalized": "/Users/han/GitHub_Notes/my-note/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "mainDocId": "KotlinCompose/Kotlin&ComposeIntro",
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "doc",
-                "id": "intro"
-              },
-              {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Kotlin & Compose",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "KotlinCompose/Kotlin&ComposeIntro",
+                    "label": "Kotlin & Compose Intro"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "KotlinCompose/Kotlin語法"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Extras",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Kotlin & Compose",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/Kotlin語法"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
+                    "id": "KotlinCompose/JetpackComposeNote1",
                     "label": "啥是 Jetpack Compose"
                   },
                   {
                     "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote2",
+                    "id": "KotlinCompose/JetpackComposeNote2",
                     "label": "Jetpack Compose 工具介紹"
                   },
                   {
                     "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
+                    "id": "KotlinCompose/JetpackComposeNote3",
                     "label": "Composable"
                   },
                   {
                     "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote4",
+                    "id": "KotlinCompose/JetpackComposeNote4",
                     "label": "() -> Unit 與 @Composable () -> Unit"
                   },
                   {
                     "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote5",
+                    "id": "KotlinCompose/JetpackComposeNote5",
                     "label": "狀態管理"
                   },
                   {
                     "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote6",
+                    "id": "KotlinCompose/JetpackComposeNote6",
                     "label": "Navigation"
                   },
                   {
                     "type": "doc",
-                    "id": "Kotlin & Jetpack Compose/JetpackComposeNote7",
+                    "id": "KotlinCompose/JetpackComposeNote7",
                     "label": "Compose 實現 MVP 與 MVVM 架構"
                   }
                 ],
@@ -119,7 +72,153 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Java Script",
+                "label": "Swift",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote1",
+                    "label": "Swift Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote2",
+                    "label": "變數宣告"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote3",
+                    "label": "資料型態"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote4",
+                    "label": "Typealias"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote5",
+                    "label": "Optional"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote6",
+                    "label": "If Else"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote7",
+                    "label": "三元運算符"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote8",
+                    "label": "Switch"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote9",
+                    "label": "Function / Method"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote10",
+                    "label": "Class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote11",
+                    "label": "Struct"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote12",
+                    "label": "Shuffle & Shuffled"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote13",
+                    "label": "Loop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote14",
+                    "label": "Enum"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote15",
+                    "label": "Computed Property"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote16",
+                    "label": "Property Observer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Swift/swiftNote17",
+                    "label": "Protocol & Delegate"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "SwiftUI",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote1",
+                    "label": "SwiftUI Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote2",
+                    "label": "SwiftUI"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote3",
+                    "label": "SwiftUI 與 Jetpack Compose 的差別"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote4",
+                    "label": "UI Design"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote5",
+                    "label": "SwiftUI 常用的 Modifier"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote6",
+                    "label": "SwiftUI 切換頁面的方法"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote7",
+                    "label": "本地儲存"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote8",
+                    "label": "UserDefaults"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SwiftUI/swiftUINote9",
+                    "label": "Core Data"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Java Script",
                 "items": [
                   {
                     "type": "doc",
@@ -191,6 +290,16 @@
                   },
                   {
                     "type": "doc",
+                    "id": "JavaScript/JSNote14",
+                    "label": "Try Catch"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/JSNote15",
+                    "label": "非同步"
+                  },
+                  {
+                    "type": "doc",
                     "id": "JavaScript/JSNote13",
                     "label": "export"
                   }
@@ -199,88 +308,52 @@
                 "collapsible": true
               },
               {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
                 "type": "category",
-                "label": "Tutorial - Swift",
+                "label": "Tutorial - Basics",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Swift/swiftNote1",
-                    "label": "Swift Intro"
+                    "id": "tutorial-basics/create-a-page"
                   },
                   {
                     "type": "doc",
-                    "id": "Swift/swiftNote2",
-                    "label": "變數宣告"
+                    "id": "tutorial-basics/create-a-document"
                   },
                   {
                     "type": "doc",
-                    "id": "Swift/swiftNote3",
-                    "label": "資料型態"
+                    "id": "tutorial-basics/create-a-blog-post"
                   },
                   {
                     "type": "doc",
-                    "id": "Swift/swiftNote4",
-                    "label": "Typealias"
+                    "id": "tutorial-basics/markdown-features"
                   },
                   {
                     "type": "doc",
-                    "id": "Swift/swiftNote5",
-                    "label": "Optional"
+                    "id": "tutorial-basics/deploy-your-site"
                   },
                   {
                     "type": "doc",
-                    "id": "Swift/swiftNote6",
-                    "label": "if else"
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
                   },
                   {
                     "type": "doc",
-                    "id": "Swift/swiftNote7",
-                    "label": "三元運算符"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote8",
-                    "label": "Switch"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote9",
-                    "label": "Function / Method"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote10",
-                    "label": "class"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote11",
-                    "label": "struct"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote12",
-                    "label": "shuffle & shuffled"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote13",
-                    "label": "Loop"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote14",
-                    "label": "enum"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote15",
-                    "label": "computed property"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Swift/swiftNote16",
-                    "label": "property observer"
+                    "id": "tutorial-extras/translate-your-site"
                   }
                 ],
                 "collapsed": true,
@@ -301,11 +374,15 @@
               "permalink": "/my-note/docs/intro",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "export",
+                "permalink": "/my-note/docs/JavaScript/JSNote13"
+              },
               "next": {
                 "title": "Create a Page",
                 "permalink": "/my-note/docs/tutorial-basics/create-a-page"
@@ -330,8 +407,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Compose 實現 MVP 與 MVVM 架構",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+                "title": "Core Data",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote9"
               },
               "next": {
                 "title": "TypeScript跟 JS 的差異",
@@ -388,8 +465,8 @@
                 "permalink": "/my-note/docs/JavaScript/JSNote11"
               },
               "next": {
-                "title": "export",
-                "permalink": "/my-note/docs/JavaScript/JSNote13"
+                "title": "Try Catch",
+                "permalink": "/my-note/docs/JavaScript/JSNote14"
               }
             },
             {
@@ -404,9 +481,36 @@
               "permalink": "/my-note/docs/JavaScript/JSNote13",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 10,
               "frontMatter": {
                 "sidebar_label": "export",
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "非同步",
+                "permalink": "/my-note/docs/JavaScript/JSNote15"
+              },
+              "next": {
+                "title": "Tutorial Intro",
+                "permalink": "/my-note/docs/intro"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote14",
+              "id": "JavaScript/JSNote14",
+              "isDocsHomePage": false,
+              "title": "Try Catch",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote14.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote14",
+              "permalink": "/my-note/docs/JavaScript/JSNote14",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "Try Catch",
                 "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
@@ -415,8 +519,35 @@
                 "permalink": "/my-note/docs/JavaScript/JSNote12"
               },
               "next": {
-                "title": "Swift Intro",
-                "permalink": "/my-note/docs/Swift/swiftNote1"
+                "title": "非同步",
+                "permalink": "/my-note/docs/JavaScript/JSNote15"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/JSNote15",
+              "id": "JavaScript/JSNote15",
+              "isDocsHomePage": false,
+              "title": "非同步",
+              "description": "---",
+              "source": "@site/docs/JavaScript/JSNote15.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/JSNote15",
+              "permalink": "/my-note/docs/JavaScript/JSNote15",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_label": "非同步",
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Try Catch",
+                "permalink": "/my-note/docs/JavaScript/JSNote14"
+              },
+              "next": {
+                "title": "export",
+                "permalink": "/my-note/docs/JavaScript/JSNote13"
               }
             },
             {
@@ -663,218 +794,241 @@
               }
             },
             {
-              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote1",
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote1",
+              "unversionedId": "KotlinCompose/JetpackComposeNote1",
+              "id": "KotlinCompose/JetpackComposeNote1",
               "isDocsHomePage": false,
               "title": "啥是 Jetpack Compose",
               "description": "---",
-              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote1.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote1",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_label": "啥是 Jetpack Compose",
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Kotlin 語法",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法"
-              },
-              "next": {
-                "title": "Jetpack Compose 工具介紹",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
-              }
-            },
-            {
-              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote2",
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote2",
-              "isDocsHomePage": false,
-              "title": "UI ( Widget / Composable ) 設計與程式撰寫",
-              "description": "---",
-              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote2.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote2",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2",
+              "source": "@site/docs/KotlinCompose/JetpackComposeNote1.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/JetpackComposeNote1",
+              "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote1",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_label": "Jetpack Compose 工具介紹",
+                "sidebar_label": "啥是 Jetpack Compose",
                 "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "啥是 Jetpack Compose",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
+                "title": "Kotlin 語法",
+                "permalink": "/my-note/docs/KotlinCompose/Kotlin語法"
               },
               "next": {
-                "title": "Composable",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
+                "title": "Jetpack Compose 工具介紹",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote2"
               }
             },
             {
-              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote3",
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "unversionedId": "KotlinCompose/JetpackComposeNote2",
+              "id": "KotlinCompose/JetpackComposeNote2",
               "isDocsHomePage": false,
-              "title": "Widgets(Compose)",
-              "description": "Widget ( Composable )",
-              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote3.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote3",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3",
+              "title": "UI ( Widget / Composable ) 設計與程式撰寫",
+              "description": "---",
+              "source": "@site/docs/KotlinCompose/JetpackComposeNote2.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/JetpackComposeNote2",
+              "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote2",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_label": "Composable",
+                "sidebar_label": "Jetpack Compose 工具介紹",
                 "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Jetpack Compose 工具介紹",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote2"
+                "title": "啥是 Jetpack Compose",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote1"
               },
               "next": {
-                "title": "() -> Unit 與 @Composable () -> Unit",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4"
+                "title": "Composable",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote3"
               }
             },
             {
-              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote4",
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "unversionedId": "KotlinCompose/JetpackComposeNote3",
+              "id": "KotlinCompose/JetpackComposeNote3",
               "isDocsHomePage": false,
-              "title": "() -> Unit 與 @Composable () -> Unit",
-              "description": "---",
-              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote4.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote4",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4",
+              "title": "Widgets(Compose)",
+              "description": "Widget ( Composable )",
+              "source": "@site/docs/KotlinCompose/JetpackComposeNote3.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/JetpackComposeNote3",
+              "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote3",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_label": "() -> Unit 與 @Composable () -> Unit",
+                "sidebar_label": "Composable",
                 "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Composable",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote3"
+                "title": "Jetpack Compose 工具介紹",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote2"
               },
               "next": {
-                "title": "狀態管理",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5"
+                "title": "() -> Unit 與 @Composable () -> Unit",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote4"
               }
             },
             {
-              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote5",
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "unversionedId": "KotlinCompose/JetpackComposeNote4",
+              "id": "KotlinCompose/JetpackComposeNote4",
               "isDocsHomePage": false,
-              "title": "狀態管理",
+              "title": "() -> Unit 與 @Composable () -> Unit",
               "description": "---",
-              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote5.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote5",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5",
+              "source": "@site/docs/KotlinCompose/JetpackComposeNote4.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/JetpackComposeNote4",
+              "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote4",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_label": "狀態管理",
+                "sidebar_label": "() -> Unit 與 @Composable () -> Unit",
                 "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "() -> Unit 與 @Composable () -> Unit",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4"
+                "title": "Composable",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote3"
               },
               "next": {
-                "title": "Navigation",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
+                "title": "狀態管理",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote5"
               }
             },
             {
-              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote6",
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "unversionedId": "KotlinCompose/JetpackComposeNote5",
+              "id": "KotlinCompose/JetpackComposeNote5",
               "isDocsHomePage": false,
-              "title": "Navigation",
+              "title": "狀態管理",
               "description": "---",
-              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote6.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote6",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6",
+              "source": "@site/docs/KotlinCompose/JetpackComposeNote5.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/JetpackComposeNote5",
+              "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote5",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_label": "Navigation",
+                "sidebar_label": "狀態管理",
                 "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "狀態管理",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote5"
+                "title": "() -> Unit 與 @Composable () -> Unit",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote4"
               },
               "next": {
-                "title": "Compose 實現 MVP 與 MVVM 架構",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7"
+                "title": "Navigation",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote6"
               }
             },
             {
-              "unversionedId": "Kotlin & Jetpack Compose/JetpackComposeNote7",
-              "id": "Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "unversionedId": "KotlinCompose/JetpackComposeNote6",
+              "id": "KotlinCompose/JetpackComposeNote6",
               "isDocsHomePage": false,
-              "title": "Compose 實現 MVP 與 MVVM 架構",
+              "title": "Navigation",
               "description": "---",
-              "source": "@site/docs/Kotlin & Jetpack Compose/JetpackComposeNote7.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/JetpackComposeNote7",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote7",
+              "source": "@site/docs/KotlinCompose/JetpackComposeNote6.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/JetpackComposeNote6",
+              "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote6",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_label": "Compose 實現 MVP 與 MVVM 架構",
+                "sidebar_label": "Navigation",
                 "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Navigation",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote6"
+                "title": "狀態管理",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote5"
               },
               "next": {
-                "title": "JavaScript Intro",
-                "permalink": "/my-note/docs/JavaScript/JSNote1"
+                "title": "Compose 實現 MVP 與 MVVM 架構",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote7"
               }
             },
             {
-              "unversionedId": "Kotlin & Jetpack Compose/Kotlin語法",
-              "id": "Kotlin & Jetpack Compose/Kotlin語法",
+              "unversionedId": "KotlinCompose/JetpackComposeNote7",
+              "id": "KotlinCompose/JetpackComposeNote7",
               "isDocsHomePage": false,
-              "title": "Kotlin 語法",
+              "title": "Compose 實現 MVP 與 MVVM 架構",
               "description": "---",
-              "source": "@site/docs/Kotlin & Jetpack Compose/Kotlin語法.md",
-              "sourceDirName": "Kotlin & Jetpack Compose",
-              "slug": "/Kotlin & Jetpack Compose/Kotlin語法",
-              "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法",
+              "source": "@site/docs/KotlinCompose/JetpackComposeNote7.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/JetpackComposeNote7",
+              "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_label": "Compose 實現 MVP 與 MVVM 架構",
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Navigation",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote6"
+              },
+              "next": {
+                "title": "Swift Intro",
+                "permalink": "/my-note/docs/Swift/swiftNote1"
+              }
+            },
+            {
+              "unversionedId": "KotlinCompose/Kotlin&ComposeIntro",
+              "id": "KotlinCompose/Kotlin&ComposeIntro",
+              "isDocsHomePage": false,
+              "title": "Kotlin & Compose Intro",
+              "description": "---",
+              "source": "@site/docs/KotlinCompose/Kotlin&ComposeIntro.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/Kotlin&ComposeIntro",
+              "permalink": "/my-note/docs/KotlinCompose/Kotlin&ComposeIntro",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
+                "sidebar_label": "Kotlin & Compose Intro",
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Kotlin 語法",
+                "permalink": "/my-note/docs/KotlinCompose/Kotlin語法"
+              }
+            },
+            {
+              "unversionedId": "KotlinCompose/Kotlin語法",
+              "id": "KotlinCompose/Kotlin語法",
+              "isDocsHomePage": false,
+              "title": "Kotlin 語法",
+              "description": "---",
+              "source": "@site/docs/KotlinCompose/Kotlin語法.md",
+              "sourceDirName": "KotlinCompose",
+              "slug": "/KotlinCompose/Kotlin語法",
+              "permalink": "/my-note/docs/KotlinCompose/Kotlin語法",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/my-note/docs/tutorial-extras/translate-your-site"
+                "title": "Kotlin & Compose Intro",
+                "permalink": "/my-note/docs/KotlinCompose/Kotlin&ComposeIntro"
               },
               "next": {
                 "title": "啥是 Jetpack Compose",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote1"
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote1"
               }
             },
             {
@@ -896,8 +1050,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "export",
-                "permalink": "/my-note/docs/JavaScript/JSNote13"
+                "title": "Compose 實現 MVP 與 MVVM 架構",
+                "permalink": "/my-note/docs/KotlinCompose/JetpackComposeNote7"
               },
               "next": {
                 "title": "變數宣告",
@@ -918,7 +1072,7 @@
               "version": "current",
               "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_label": "class",
+                "sidebar_label": "Class",
                 "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
@@ -927,7 +1081,7 @@
                 "permalink": "/my-note/docs/Swift/swiftNote9"
               },
               "next": {
-                "title": "struct",
+                "title": "Struct",
                 "permalink": "/my-note/docs/Swift/swiftNote11"
               }
             },
@@ -945,16 +1099,16 @@
               "version": "current",
               "sidebarPosition": 11,
               "frontMatter": {
-                "sidebar_label": "struct",
+                "sidebar_label": "Struct",
                 "sidebar_position": 11
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "class",
+                "title": "Class",
                 "permalink": "/my-note/docs/Swift/swiftNote10"
               },
               "next": {
-                "title": "shuffle & shuffled",
+                "title": "Shuffle & Shuffled",
                 "permalink": "/my-note/docs/Swift/swiftNote12"
               }
             },
@@ -972,12 +1126,12 @@
               "version": "current",
               "sidebarPosition": 12,
               "frontMatter": {
-                "sidebar_label": "shuffle & shuffled",
+                "sidebar_label": "Shuffle & Shuffled",
                 "sidebar_position": 12
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "struct",
+                "title": "Struct",
                 "permalink": "/my-note/docs/Swift/swiftNote11"
               },
               "next": {
@@ -1004,11 +1158,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "shuffle & shuffled",
+                "title": "Shuffle & Shuffled",
                 "permalink": "/my-note/docs/Swift/swiftNote12"
               },
               "next": {
-                "title": "enum",
+                "title": "Enum",
                 "permalink": "/my-note/docs/Swift/swiftNote14"
               }
             },
@@ -1026,7 +1180,7 @@
               "version": "current",
               "sidebarPosition": 14,
               "frontMatter": {
-                "sidebar_label": "enum",
+                "sidebar_label": "Enum",
                 "sidebar_position": 14
               },
               "sidebar": "tutorialSidebar",
@@ -1035,7 +1189,7 @@
                 "permalink": "/my-note/docs/Swift/swiftNote13"
               },
               "next": {
-                "title": "computed property",
+                "title": "Computed Property",
                 "permalink": "/my-note/docs/Swift/swiftNote15"
               }
             },
@@ -1053,16 +1207,16 @@
               "version": "current",
               "sidebarPosition": 15,
               "frontMatter": {
-                "sidebar_label": "computed property",
+                "sidebar_label": "Computed Property",
                 "sidebar_position": 15
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "enum",
+                "title": "Enum",
                 "permalink": "/my-note/docs/Swift/swiftNote14"
               },
               "next": {
-                "title": "property observer",
+                "title": "Property Observer",
                 "permalink": "/my-note/docs/Swift/swiftNote16"
               }
             },
@@ -1080,13 +1234,44 @@
               "version": "current",
               "sidebarPosition": 16,
               "frontMatter": {
-                "sidebar_label": "property observer",
+                "sidebar_label": "Property Observer",
                 "sidebar_position": 16
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "computed property",
+                "title": "Computed Property",
                 "permalink": "/my-note/docs/Swift/swiftNote15"
+              },
+              "next": {
+                "title": "Protocol & Delegate",
+                "permalink": "/my-note/docs/Swift/swiftNote17"
+              }
+            },
+            {
+              "unversionedId": "Swift/swiftNote17",
+              "id": "Swift/swiftNote17",
+              "isDocsHomePage": false,
+              "title": "Protocol & Delegate",
+              "description": "---",
+              "source": "@site/docs/Swift/swiftNote17.md",
+              "sourceDirName": "Swift",
+              "slug": "/Swift/swiftNote17",
+              "permalink": "/my-note/docs/Swift/swiftNote17",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 17,
+              "frontMatter": {
+                "sidebar_label": "Protocol & Delegate",
+                "sidebar_position": 17
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Property Observer",
+                "permalink": "/my-note/docs/Swift/swiftNote16"
+              },
+              "next": {
+                "title": "SwiftUI Intro",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote1"
               }
             },
             {
@@ -1193,7 +1378,7 @@
                 "permalink": "/my-note/docs/Swift/swiftNote4"
               },
               "next": {
-                "title": "if else",
+                "title": "If Else",
                 "permalink": "/my-note/docs/Swift/swiftNote6"
               }
             },
@@ -1211,7 +1396,7 @@
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_label": "if else",
+                "sidebar_label": "If Else",
                 "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
@@ -1243,7 +1428,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "if else",
+                "title": "If Else",
                 "permalink": "/my-note/docs/Swift/swiftNote6"
               },
               "next": {
@@ -1301,8 +1486,251 @@
                 "permalink": "/my-note/docs/Swift/swiftNote8"
               },
               "next": {
-                "title": "class",
+                "title": "Class",
                 "permalink": "/my-note/docs/Swift/swiftNote10"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote1",
+              "id": "SwiftUI/swiftUINote1",
+              "isDocsHomePage": false,
+              "title": "SwiftUI",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote1.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote1",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "SwiftUI Intro",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Protocol & Delegate",
+                "permalink": "/my-note/docs/Swift/swiftNote17"
+              },
+              "next": {
+                "title": "SwiftUI",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote2"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote2",
+              "id": "SwiftUI/swiftUINote2",
+              "isDocsHomePage": false,
+              "title": "SwiftUI",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote2.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote2",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "SwiftUI",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SwiftUI Intro",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote1"
+              },
+              "next": {
+                "title": "SwiftUI 與 Jetpack Compose 的差別",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote3"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote3",
+              "id": "SwiftUI/swiftUINote3",
+              "isDocsHomePage": false,
+              "title": "SwiftUI 與 Jetpack Compose 的差別",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote3.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote3",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "SwiftUI 與 Jetpack Compose 的差別",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SwiftUI",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote2"
+              },
+              "next": {
+                "title": "UI Design",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote4"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote4",
+              "id": "SwiftUI/swiftUINote4",
+              "isDocsHomePage": false,
+              "title": "UI Design",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote4.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote4",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote4",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "UI Design",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SwiftUI 與 Jetpack Compose 的差別",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote3"
+              },
+              "next": {
+                "title": "SwiftUI 常用的 Modifier",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote5"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote5",
+              "id": "SwiftUI/swiftUINote5",
+              "isDocsHomePage": false,
+              "title": "SwiftUI 常用的 Modifier",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote5.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote5",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "SwiftUI 常用的 Modifier",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "UI Design",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote4"
+              },
+              "next": {
+                "title": "SwiftUI 切換頁面的方法",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote6"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote6",
+              "id": "SwiftUI/swiftUINote6",
+              "isDocsHomePage": false,
+              "title": "SwiftUI 切換頁面的方法",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote6.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote6",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "SwiftUI 切換頁面的方法",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SwiftUI 常用的 Modifier",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote5"
+              },
+              "next": {
+                "title": "本地儲存",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote7"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote7",
+              "id": "SwiftUI/swiftUINote7",
+              "isDocsHomePage": false,
+              "title": "本地儲存",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote7.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote7",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_label": "本地儲存",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SwiftUI 切換頁面的方法",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote6"
+              },
+              "next": {
+                "title": "UserDefaults",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote8"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote8",
+              "id": "SwiftUI/swiftUINote8",
+              "isDocsHomePage": false,
+              "title": "UserDefaults",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote8.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote8",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote8",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_label": "UserDefaults",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "本地儲存",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote7"
+              },
+              "next": {
+                "title": "Core Data",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote9"
+              }
+            },
+            {
+              "unversionedId": "SwiftUI/swiftUINote9",
+              "id": "SwiftUI/swiftUINote9",
+              "isDocsHomePage": false,
+              "title": "Core Data",
+              "description": "---",
+              "source": "@site/docs/SwiftUI/swiftUINote9.md",
+              "sourceDirName": "SwiftUI",
+              "slug": "/SwiftUI/swiftUINote9",
+              "permalink": "/my-note/docs/SwiftUI/swiftUINote9",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_label": "Core Data",
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "UserDefaults",
+                "permalink": "/my-note/docs/SwiftUI/swiftUINote8"
+              },
+              "next": {
+                "title": "JavaScript Intro",
+                "permalink": "/my-note/docs/JavaScript/JSNote1"
               }
             },
             {
@@ -1507,10 +1935,6 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/my-note/docs/tutorial-extras/manage-docs-versions"
-              },
-              "next": {
-                "title": "Kotlin 語法",
-                "permalink": "/my-note/docs/Kotlin & Jetpack Compose/Kotlin語法"
               }
             }
           ]

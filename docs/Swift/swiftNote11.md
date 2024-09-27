@@ -1,5 +1,5 @@
 ---
-sidebar_label: "struct"
+sidebar_label: "Struct"
 sidebar_position: 11
 ---
 

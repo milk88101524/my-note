@@ -10,10 +10,10 @@
   "permalink": "/my-note/docs/Kotlin & Jetpack Compose/JetpackComposeNote4",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_label": "() -> Unit 與 @Composable () -> Unit",
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
