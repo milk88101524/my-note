@@ -299,6 +299,19 @@
         "collapsible": true
       },
       {
+        "type": "category",
+        "label": "Git",
+        "items": [
+          {
+            "type": "link",
+            "label": "Git command",
+            "href": "/my-note/docs/Git/gitNote1"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
         "type": "link",
         "label": "Tutorial Intro",
         "href": "/my-note/docs/intro"

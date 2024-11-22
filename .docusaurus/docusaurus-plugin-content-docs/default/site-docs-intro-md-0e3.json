@@ -10,14 +10,14 @@
   "permalink": "/my-note/docs/intro",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "export",
-    "permalink": "/my-note/docs/JavaScript/JSNote13"
+    "title": "Git command",
+    "permalink": "/my-note/docs/Git/gitNote1"
   },
   "next": {
     "title": "Create a Page",

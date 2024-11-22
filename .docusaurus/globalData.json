@@ -11,6 +11,11 @@
           "mainDocId": "KotlinCompose/Kotlin&ComposeIntro",
           "docs": [
             {
+              "id": "Git/gitNote1",
+              "path": "/my-note/docs/Git/gitNote1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/my-note/docs/intro",
               "sidebar": "tutorialSidebar"

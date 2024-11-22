@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Git/gitNote1",
+  "id": "Git/gitNote1",
+  "isDocsHomePage": false,
+  "title": "Git 語法",
+  "description": "---",
+  "source": "@site/docs/Git/gitNote1.md",
+  "sourceDirName": "Git",
+  "slug": "/Git/gitNote1",
+  "permalink": "/my-note/docs/Git/gitNote1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Git command",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "export",
+    "permalink": "/my-note/docs/JavaScript/JSNote13"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/my-note/docs/intro"
+  }
+}

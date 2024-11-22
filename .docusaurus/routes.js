@@ -65,8 +65,14 @@ export default [
   },
   {
     path: '/my-note/docs',
-    component: ComponentCreator('/my-note/docs','fa3'),
+    component: ComponentCreator('/my-note/docs','cdc'),
     routes: [
+      {
+        path: '/my-note/docs/Git/gitNote1',
+        component: ComponentCreator('/my-note/docs/Git/gitNote1','6ec'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/my-note/docs/intro',
         component: ComponentCreator('/my-note/docs/intro','32a'),

@@ -308,6 +308,19 @@
                 "collapsible": true
               },
               {
+                "type": "category",
+                "label": "Git",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Git/gitNote1",
+                    "label": "Git command"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
                 "type": "doc",
                 "id": "intro"
               },
@@ -363,6 +376,33 @@
           },
           "docs": [
             {
+              "unversionedId": "Git/gitNote1",
+              "id": "Git/gitNote1",
+              "isDocsHomePage": false,
+              "title": "Git 語法",
+              "description": "---",
+              "source": "@site/docs/Git/gitNote1.md",
+              "sourceDirName": "Git",
+              "slug": "/Git/gitNote1",
+              "permalink": "/my-note/docs/Git/gitNote1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Git command",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "export",
+                "permalink": "/my-note/docs/JavaScript/JSNote13"
+              },
+              "next": {
+                "title": "Tutorial Intro",
+                "permalink": "/my-note/docs/intro"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "isDocsHomePage": false,
@@ -374,14 +414,14 @@
               "permalink": "/my-note/docs/intro",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "export",
-                "permalink": "/my-note/docs/JavaScript/JSNote13"
+                "title": "Git command",
+                "permalink": "/my-note/docs/Git/gitNote1"
               },
               "next": {
                 "title": "Create a Page",
@@ -492,8 +532,8 @@
                 "permalink": "/my-note/docs/JavaScript/JSNote15"
               },
               "next": {
-                "title": "Tutorial Intro",
-                "permalink": "/my-note/docs/intro"
+                "title": "Git command",
+                "permalink": "/my-note/docs/Git/gitNote1"
               }
             },
             {
